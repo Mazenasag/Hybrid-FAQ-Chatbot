@@ -30,7 +30,6 @@ The result is a system that retrieves **accurate answers** while generating **na
 ---
 
 ## 🏗️ Architecture  
-
 ```mermaid
 flowchart TD
     A[User Query] --> B{Hybrid Search}
@@ -39,7 +38,7 @@ flowchart TD
     C --> E[Candidate Answers]
     D --> E
     E --> F[LLM Refinement (Together API)]
-    F --> G[Final Response]```
+    F --> G[Final Response]
 
 
 📂 Project Structure
