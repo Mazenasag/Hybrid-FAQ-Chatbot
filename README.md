@@ -39,8 +39,7 @@ flowchart TD
     C --> E[Candidate Answers]
     D --> E
     E --> F[LLM Refinement (Together API)]
-    F --> G[Final Response]
-```
+    F --> G[Final Response]```
 
 
 📂 Project Structure
