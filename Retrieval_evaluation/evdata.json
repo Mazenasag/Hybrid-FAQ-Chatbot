@@ -1,0 +1,904 @@
+[
+  {
+    "query": "How to make an account?",
+    "expected": [
+      "How can I create an account?",
+      "How do I sign up for an account?",
+      "How can I register for an account?",
+      "Can you explain how to create an account?"
+    ]
+  },
+  {
+    "query": "Account creation steps",
+    "expected": [
+      "How can I create an account?",
+      "How do I sign up for an account?",
+      "How can I register for an account?",
+      "Can you explain how to create an account?"
+    ]
+  },
+  {
+    "query": "Payment options available?",
+    "expected": [
+      "What payment methods do you accept?",
+      "What payment options are available?",
+      "What types of payments do you accept?",
+      "Can you explain your payment options?"
+    ]
+  },
+  {
+    "query": "Do you take credit cards?",
+    "expected": [
+      "What payment methods do you accept?",
+      "What payment options are available?",
+      "What types of payments do you accept?",
+      "Can you explain your payment options?"
+    ]
+  },
+  {
+    "query": "Where's my package?",
+    "expected": [
+      "How can I track my order?",
+      "How do I check my order status?",
+      "Can you guide me on checking my order status?",
+      "How can I monitor my order?"
+    ]
+  },
+  {
+    "query": "Order tracking process",
+    "expected": [
+      "How can I track my order?",
+      "How do I check my order status?",
+      "Can you guide me on checking my order status?",
+      "How can I monitor my order?"
+    ]
+  },
+  {
+    "query": "Returning items policy",
+    "expected": [
+      "What is your return policy?",
+      "Can you provide details on your return policy?",
+      "Can you explain your policy on returns?",
+      "What are the rules for returning items?"
+    ]
+  },
+  {
+    "query": "Refund guidelines",
+    "expected": [
+      "What is your return policy?",
+      "Can you provide details on your return policy?",
+      "Can you explain your policy on returns?",
+      "What are the rules for returning items?"
+    ]
+  },
+  {
+    "query": "How to stop my order?",
+    "expected": [
+      "Can I cancel my order?",
+      "Is it possible to cancel my order?",
+      "How can I cancel my order?",
+      "What steps are needed to cancel my order?"
+    ]
+  },
+  {
+    "query": "Order cancellation process",
+    "expected": [
+      "Can I cancel my order?",
+      "Is it possible to cancel my order?",
+      "How can I cancel my order?",
+      "What steps are needed to cancel my order?"
+    ]
+  },
+  {
+    "query": "Delivery timeframe",
+    "expected": [
+      "How long does shipping take?",
+      "What is the shipping timeframe?",
+      "How long will delivery take?",
+      "How long does it take for shipping?"
+    ]
+  },
+  {
+    "query": "Shipping duration",
+    "expected": [
+      "How long does shipping take?",
+      "What is the shipping timeframe?",
+      "How long will delivery take?",
+      "How long does it take for shipping?"
+    ]
+  },
+  {
+    "query": "Ship to other countries?",
+    "expected": [
+      "Do you offer international shipping?",
+      "Can you ship internationally?",
+      "Do you provide shipping to international destinations?",
+      "Is international shipping available?"
+    ]
+  },
+  {
+    "query": "Global shipping options",
+    "expected": [
+      "Do you offer international shipping?",
+      "Can you ship internationally?",
+      "Do you provide shipping to international destinations?",
+      "Is international shipping available?"
+    ]
+  },
+  {
+    "query": "Package arrived damaged",
+    "expected": [
+      "What should I do if my package is lost or damaged?",
+      "What steps should I take if my package is lost or damaged?",
+      "What should I do if my package is lost or damaged?",
+      "How do I handle a lost or damaged package?"
+    ]
+  },
+  {
+    "query": "Missing parcel solution",
+    "expected": [
+      "What should I do if my package is lost or damaged?",
+      "What steps should I take if my package is lost or damaged?",
+      "What should I do if my package is lost or damaged?",
+      "How do I handle a lost or damaged package?"
+    ]
+  },
+  {
+    "query": "Update delivery address",
+    "expected": [
+      "Can I change my shipping address after placing an order?",
+      "Can I update my shipping address after ordering?",
+      "Is it possible to change my shipping address after placing an order?",
+      "How can I modify my shipping address after ordering?"
+    ]
+  },
+  {
+    "query": "Modify order address",
+    "expected": [
+      "Can I change my shipping address after placing an order?",
+      "Can I update my shipping address after ordering?",
+      "Is it possible to change my shipping address after placing an order?",
+      "How can I modify my shipping address after ordering?"
+    ]
+  },
+  {
+    "query": "Reach customer service",
+    "expected": [
+      "How can I contact customer support?",
+      "How do I reach customer support?",
+      "What are the ways to contact customer support?",
+      "How can I get in touch with customer service?"
+    ]
+  },
+  {
+    "query": "Support contact options",
+    "expected": [
+      "How can I contact customer support?",
+      "How do I reach customer support?",
+      "What are the ways to contact customer support?",
+      "How can I get in touch with customer service?"
+    ]
+  },
+  {
+    "query": "Present wrapping service",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Gift packaging options",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Competitor price matching",
+    "expected": [
+      "What is your price matching policy?",
+      "Can you explain your price matching policy?",
+      "How does your price matching policy work?",
+      "What are the details of your price matching policy?"
+    ]
+  },
+  {
+    "query": "Price guarantee details",
+    "expected": [
+      "What is your price matching policy?",
+      "Can you explain your price matching policy?",
+      "How does your price matching policy work?",
+      "What are the details of your price matching policy?"
+    ]
+  },
+  {
+    "query": "Phone ordering possible?",
+    "expected": [
+      "Can I order by phone?",
+      "Can I place an order by phone?",
+      "Is it possible to order over the phone?",
+      "How can I order using a phone call?"
+    ]
+  },
+  {
+    "query": "Telephone purchase options",
+    "expected": [
+      "Can I order by phone?",
+      "Can I place an order by phone?",
+      "Is it possible to order over the phone?",
+      "How can I order using a phone call?"
+    ]
+  },
+  {
+    "query": "Data security measures",
+    "expected": [
+      "Are my personal and payment details secure?",
+      "Is my personal and payment information secure?",
+      "How secure is my personal and payment information?",
+      "Are my personal and payment details safe on your website?"
+    ]
+  },
+  {
+    "query": "Payment safety assurance",
+    "expected": [
+      "Are my personal and payment details secure?",
+      "Is my personal and payment information secure?",
+      "How secure is my personal and payment information?",
+      "Are my personal and payment details safe on your website?"
+    ]
+  },
+  {
+    "query": "Sale price adjustment",
+    "expected": [
+      "What is your price adjustment policy?",
+      "Can you explain your price adjustment policy?",
+      "What is your policy on price adjustments?",
+      "How does your price adjustment policy work?"
+    ]
+  },
+  {
+    "query": "Post-purchase price match",
+    "expected": [
+      "What is your price adjustment policy?",
+      "Can you explain your price adjustment policy?",
+      "What is your policy on price adjustments?",
+      "How does your price adjustment policy work?"
+    ]
+  },
+  {
+    "query": "VIP membership signup",
+    "expected": [
+      "Do you have a loyalty program?",
+      "Is there a loyalty program available?",
+      "Do you offer a rewards program?",
+      "What is your loyalty program like?"
+    ]
+  },
+  {
+    "query": "Apple Pay acceptance",
+    "expected": [
+      "What payment methods do you accept?",
+      "What payment options are available?",
+      "What types of payments do you accept?",
+      "Can you explain your payment options?"
+    ]
+  },
+  {
+    "query": "Overnight delivery availability",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Gift wrap pricing",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Size exchange procedure",
+    "expected": [
+      "Can I change or cancel an item in my order?",
+      "Can I modify or cancel an item in my order?",
+      "Is it possible to change or cancel an item in my order?",
+      "How can I change or cancel an item in my order?"
+    ]
+  },
+  {
+    "query": "Refund processing time",
+    "expected": [
+      "How long does it take to process a refund?",
+      "How long will it take to process my refund?",
+      "What is the timeframe for processing a refund?",
+      "How soon can I expect my refund to be processed?"
+    ]
+  },
+  {
+    "query": "Military discount",
+    "expected": [
+      "Do you have a loyalty program?",
+      "Is there a loyalty program available?",
+      "Do you offer a rewards program?",
+      "What is your loyalty program like?"
+    ]
+  },
+  {
+    "query": "Product assembly service",
+    "expected": [
+      "Do you offer installation services for your products?",
+      "Do you provide installation services?",
+      "Can you install your products?",
+      "Is installation available for your products?"
+    ]
+  },
+  {
+    "query": "product customization options",
+    "expected": [
+      "Can I customize a product before ordering?",
+      "Can I personalize a product before ordering?",
+      "Is it possible to customize a product before purchase?",
+      "How can I customize a product before ordering?"
+    ]
+  },
+  {
+    "query": "Corporate gifting program",
+    "expected": [
+      "Do you offer bulk or wholesale discounts?",
+      "Are bulk or wholesale discounts available?",
+      "Do you provide discounts for bulk or wholesale orders?",
+      "What is your policy on bulk or wholesale discounts?"
+    ]
+  },
+  {
+    "query": "Holiday return deadline",
+    "expected": [
+      "What is your return policy?",
+      "Can you provide details on your return policy?",
+      "Can you explain your policy on returns?",
+      "What are the rules for returning items?"
+    ]
+  },
+  {
+    "query": "Price match guarantee",
+    "expected": [
+      "What is your price matching policy?",
+      "Can you explain your price matching policy?",
+      "How does your price matching policy work?",
+      "What are the details of your price matching policy?"
+    ]
+  },
+
+  {
+    "query": "International customs fees",
+    "expected": [
+      "Are there additional taxes for international orders?",
+      "Are there extra taxes for international orders?",
+      "Do international orders have additional taxes?",
+      "Will I be charged extra taxes for an international purchase?"
+    ]
+  },
+  {
+    "query": "Bundle discount options",
+    "expected": [
+      "Do you offer bulk or wholesale discounts?",
+      "Are bulk or wholesale discounts available?",
+      "Do you provide discounts for bulk or wholesale orders?",
+      "What is your policy on bulk or wholesale discounts?"
+    ]
+  },
+  {
+    "query": "Product demo scheduling",
+    "expected": [
+      "Can I request a product demonstration before making a purchase?",
+      "Can I see a product demo before buying?",
+      "Is it possible to get a product demonstration before purchasing?",
+      "How can I request a product demo before making a purchase?"
+    ]
+  },
+  {
+    "query": "Digital wallet payments",
+    "expected": [
+      "What payment methods do you accept?",
+      "What payment options are available?",
+      "What types of payments do you accept?",
+      "Can you explain your payment options?"
+    ]
+  },
+  {
+    "query": "Express shipping costs",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Gift wrap options",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Item swap process",
+    "expected": [
+      "Can I change or cancel an item in my order?",
+      "Can I modify or cancel an item in my order?",
+      "Is it possible to change or cancel an item in my order?",
+      "How can I change or cancel an item in my order?"
+    ]
+  },
+  {
+    "query": "Refund timeline estimate",
+    "expected": [
+      "How long does it take to process a refund?",
+      "How long will it take to process my refund?",
+      "What is the timeframe for processing a refund?",
+      "How soon can I expect my refund to be processed?"
+    ]
+  },
+  {
+    "query": "installation service",
+    "expected": [
+      "Do you offer installation services for your products?",
+      "Do you provide installation services?",
+      "Can you install your products?",
+      "Is installation available for your products?"
+    ]
+  },
+  {
+    "query": "Personalization options",
+    "expected": [
+      "Can I customize a product before ordering?",
+      "Can I personalize a product before ordering?",
+      "Is it possible to customize a product before purchase?",
+      "How can I customize a product before ordering?"
+    ]
+  },
+  {
+    "query": "Next-day shipping for urgent orders?",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "damaged package",
+    "expected": [
+      "What should I do if my package is lost or damaged?",
+      "What steps should I take if my package is lost or damaged?",
+      "What should I do if my package is lost or damaged?",
+      "How do I handle a lost or damaged package?"
+    ]
+  },
+  {
+    "query": "Return electronics without receipt",
+    "expected": [
+      "Can I return a product without a receipt?",
+      "Can I return an item without a receipt?",
+      "How do I return a product without a receipt?",
+      "Is it possible to return a product without proof of purchase?"
+    ]
+  },
+  {
+    "query": "International shipping costs and times",
+    "expected": [
+      "Do you offer international shipping?",
+      "Can you ship internationally?",
+      "Do you provide shipping to international destinations?",
+      "Is international shipping available?"
+    ]
+  },
+  {
+    "query": "Use multiple coupons at checkout",
+    "expected": [
+      "Can I use multiple promo codes on a single order?",
+      "Can I apply multiple promo codes to one order?",
+      "Is it possible to use more than one promo code on a single purchase?",
+      "How can I use multiple promo codes for one order?"
+    ]
+  },
+  {
+    "query": "Order tracking not updating",
+    "expected": [
+      "How can I track my order?",
+      "How do I check my order status?",
+      "Can you guide me on checking my order status?",
+      "How can I monitor my order?"
+    ]
+  },
+  {
+    "query": "Gift message character limit",
+    "expected": [
+      "Can I add a gift message to my order?",
+      "Can I include a gift message with my order?",
+      "Is it possible to add a gift message to my purchase?",
+      "How can I add a gift message to my order?"
+    ]
+  },
+  {
+    "query": "Price adjustment after sale ends",
+    "expected": [
+      "What is your price adjustment policy?",
+      "Can you explain your price adjustment policy?",
+      "What is your policy on price adjustments?",
+      "How does your price adjustment policy work?"
+    ]
+  },
+  {
+    "query": "Create account ",
+    "expected": [
+      "How can I create an account?",
+      "How do I sign up for an account?",
+      "How can I register for an account?",
+      "Can you explain how to create an account?"
+    ]
+  },
+  {
+    "query": "Pay with cryptocurrency options",
+    "expected": [
+      "What payment methods do you accept?",
+      "What payment options are available?",
+      "What types of payments do you accept?",
+      "Can you explain your payment options?"
+    ]
+  },
+  {
+    "query": "Track international shipment status",
+    "expected": [
+      "How can I track my order?",
+      "How do I check my order status?",
+      "Can you guide me on checking my order status?",
+      "How can I monitor my order?"
+    ]
+  },
+  {
+    "query": "item Return",
+    "expected": [
+      "What is your return policy?",
+      "Can you provide details on your return policy?",
+      "Can you explain your policy on returns?",
+      "What are the rules for returning items?"
+    ]
+  },
+  {
+    "query": "Cancel order ",
+    "expected": [
+      "Can I cancel my order?",
+      "Is it possible to cancel my order?",
+      "How can I cancel my order?",
+      "What steps are needed to cancel my order?"
+    ]
+  },
+  {
+    "query": "Rush shipping for birthday gift",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Ship to PO box internationally",
+    "expected": [
+      "Do you offer international shipping?",
+      "Can you ship internationally?",
+      "Do you provide shipping to international destinations?",
+      "Is international shipping available?"
+    ]
+  },
+  {
+    "query": "Replace damaged product part",
+    "expected": [
+      "What should I do if my package is lost or damaged?",
+      "What steps should I take if my package is lost or damaged?",
+      "What should I do if my package is lost or damaged?",
+      "How do I handle a lost or damaged package?"
+    ]
+  },
+  {
+    "query": "Change address for pending order",
+    "expected": [
+      "Can I change my shipping address after placing an order?",
+      "Can I update my shipping address after ordering?",
+      "Is it possible to change my shipping address after placing an order?",
+      "How can I modify my shipping address after ordering?"
+    ]
+  },
+  {
+    "query": "24/7 customer support availability",
+    "expected": [
+      "How can I contact customer support?",
+      "How do I reach customer support?",
+      "What are the ways to contact customer support?",
+      "How can I get in touch with customer service?"
+    ]
+  },
+  {
+    "query": "Premium gift wrapping cost",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Price match Amazon listing",
+    "expected": [
+      "What is your price matching policy?",
+      "Can you explain your price matching policy?",
+      "How does your price matching policy work?",
+      "What are the details of your price matching policy?"
+    ]
+  },
+  {
+    "query": "Phone order exception process",
+    "expected": [
+      "Can I order by phone?",
+      "Can I place an order by phone?",
+      "Is it possible to order over the phone?",
+      "How can I order using a phone call?"
+    ]
+  },
+  {
+    "query": "Payment security certification",
+    "expected": [
+      "Are my personal and payment details secure?",
+      "Is my personal and payment information secure?",
+      "How secure is my personal and payment information?",
+      "Are my personal and payment details safe on your website?"
+    ]
+  },
+  {
+    "query": "Adjust price for recent purchase",
+    "expected": [
+      "What is your price adjustment policy?",
+      "Can you explain your price adjustment policy?",
+      "What is your policy on price adjustments?",
+      "How does your price adjustment policy work?"
+    ]
+  },
+  {
+    "query": "Loyalty points  policy",
+    "expected": [
+      "Do you have a loyalty program?",
+      "Is there a loyalty program available?",
+      "Do you offer a rewards program?",
+      "What is your loyalty program like?"
+    ]
+  },
+  {
+    "query": "Guest checkout limitations",
+    "expected": [
+      "Can I order without creating an account?",
+      "Can I place an order without an account?",
+      "Is it possible to order as a guest?",
+      "How can I order without registering?"
+    ]
+  },
+  {
+    "query": "Large quantity discount inquiry",
+    "expected": [
+      "Do you offer bulk or wholesale discounts?",
+      "Are bulk or wholesale discounts available?",
+      "Do you provide discounts for bulk or wholesale orders?",
+      "What is your policy on bulk or wholesale discounts?"
+    ]
+  },
+  {
+    "query": "change order ",
+    "expected": [
+      "Can I change or cancel an item in my order?",
+      "Can I modify or cancel an item in my order?",
+      "Is it possible to change or cancel an item in my order?",
+      "How can I change or cancel an item in my order?"
+    ]
+  },
+  {
+    "query": "Submit product review anonymously",
+    "expected": [
+      "How can I leave a product review?",
+      "How do I write a product review?",
+      "Can you guide me on writing a product review?",
+      "What is the process for leaving a product review?"
+    ]
+  },
+  {
+    "query": "Combine promo code with sale",
+    "expected": [
+      "Can I use multiple promo codes on a single order?",
+      "Can I apply multiple promo codes to one order?",
+      "Is it possible to use more than one promo code on a single purchase?",
+      "How can I use multiple promo codes for one order?"
+    ]
+  },
+  {
+    "query": "wrong  item",
+    "expected": [
+      "What should I do if I receive the wrong item?",
+      "What should I do if I get the wrong item?",
+      "How do I handle receiving an incorrect item?",
+      "What steps should I take if I receive the wrong product?"
+    ]
+  },
+  {
+    "query": "Priority shipping options",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Backorder notification setup",
+    "expected": [
+      "Can I order a product that is out of stock?",
+      "Can I purchase an out-of-stock product?",
+      "Is it possible to order a product that’s currently unavailable?",
+      "How can I order a product that’s out of stock?"
+    ]
+  },
+  {
+    "query": "Newsletter unsubscribe process",
+    "expected": [
+      "What is your email newsletter about?",
+      "What does your email newsletter cover?",
+      "What content is in your email newsletter?",
+      "Can you tell me about your email newsletter?"
+    ]
+  },
+
+  {
+    "query": "Live chat support hours",
+    "expected": [
+      "Do you offer live chat support?",
+      "Is live chat support available?",
+      "Do you have live chat for customer support?",
+      "Can I use live chat to contact customer service?"
+    ]
+  },
+  {
+    "query": "Gift shipment direct to recipient",
+    "expected": [
+      "Can I order a product as a gift?",
+      "Can I purchase a product as a gift?",
+      "Is it possible to order an item as a gift?",
+      "How can I order a product for gifting?"
+    ]
+  },
+  {
+    "query": "Expired promo code",
+    "expected": [
+      "What should I do if my discount code is not working?",
+      "What do I do if my discount code doesn’t work?",
+      "How can I fix a discount code that isn’t working?",
+      "What steps should I take if my discount code fails?"
+    ]
+  },
+  {
+    "query": "Final sale return",
+    "expected": [
+      "Can I return a product if it was a final sale item?",
+      "Can I return an item marked as final sale?",
+      "Is it possible to return a final sale product?",
+      "How can I return a final sale item?"
+    ]
+  },
+  {
+    "query": "Product installation cost",
+    "expected": [
+      "Do you offer installation services for your products?",
+      "Do you provide installation services?",
+      "Can you install your products?",
+      "Is installation available for your products?"
+    ]
+  },
+    {
+    "query": "Military discount",
+    "expected": [
+      "Do you have a loyalty program?",
+      "Is there a loyalty program available?",
+      "Do you offer a rewards program?",
+      "What is your loyalty program like?"
+    ]
+  },
+  {
+    "query": "Product assembly service",
+    "expected": [
+      "Do you offer installation services for your products?",
+      "Do you provide installation services?",
+      "Can you install your products?",
+      "Is installation available for your products?"
+    ]
+  },
+  {
+    "query": "Bundle discount",
+    "expected": [
+      "Do you offer bulk or wholesale discounts?",
+      "Are bulk or wholesale discounts available?",
+      "Do you provide discounts for bulk or wholesale orders?",
+      "What is your policy on bulk or wholesale discounts?"
+    ]
+  },
+  {
+    "query": "Express shipping",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Refund processing time",
+    "expected": [
+      "How long does it take to process a refund?",
+      "How long will it take to process my refund?",
+      "What is the timeframe for processing a refund?",
+      "How soon can I expect my refund to be processed?"
+    ]
+  },
+  {
+    "query": "Custom product options",
+    "expected": [
+      "Can I customize a product before ordering?",
+      "Can I personalize a product before ordering?",
+      "Is it possible to customize a product before purchase?",
+      "How can I customize a product before ordering?"
+    ]
+  },
+  {
+    "query": "Next-day shipping",
+    "expected": [
+      "Do you offer expedited shipping?",
+      "Can you provide expedited shipping?",
+      "Is expedited shipping available for my order?",
+      "How can I get my order shipped faster?"
+    ]
+  },
+  {
+    "query": "Installation service",
+    "expected": [
+      "Do you offer installation services for your products?",
+      "Do you provide installation services?",
+      "Can you install your products?",
+      "Is installation available for your products?"
+    ]
+  },
+  {
+    "query": "Gift wrap",
+    "expected": [
+      "Do you offer gift wrapping services?",
+      "Is gift wrapping available?",
+      "Can you wrap my order as a gift?",
+      "Do you provide gift wrapping for orders?"
+    ]
+  },
+  {
+    "query": "Price match",
+    "expected": [
+      "What is your price matching policy?",
+      "Can you explain your price matching policy?",
+      "How does your price matching policy work?",
+      "What are the details of your price matching policy?"
+    ]
+  }
+]

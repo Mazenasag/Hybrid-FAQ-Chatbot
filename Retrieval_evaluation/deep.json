@@ -1,0 +1,1253 @@
+// [
+//   {
+//     "query": "What's the procedure for setting up a new user profile?",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "account creation",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "make account",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "I need to buy something but haven't signed up yet.",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "Initiate the new customer onboarding protocol.",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "What are the ways I can pay for my order?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "payment methods",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "pay with card?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "Do I need to use a credit card?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "I wish to remit payment for goods and services. List permissible transaction instruments.",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "How do I find out where my shipment is currently located?",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "order status",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "tracking",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "My order was supposed to be here by now.",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "The last scan shows 'departed facility' 72 hours ago. Provide real-time telemetry for parcel ID #XYZ123.",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "Can you tell me about your policy for sending items back?",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "return policy",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "returns?",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "What if I change my mind after it arrives?",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "Hypothetically, if a product were to no longer be desired post-fulfillment, what recourse does the consumer possess?",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "Is it possible to stop my order from being processed?",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "cancel order",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "stop my order",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "I just bought this but found it cheaper elsewhere.",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "Initiate order termination sequence for order #ABC456 before it enters the logistics stream.",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "What is the estimated time for delivery after I place my order?",
+//     "expected": [
+//       "How long does shipping take?",
+//       "What is the shipping timeframe?",
+//       "How long will delivery take?",
+//       "How long does it take for shipping?"
+//     ]
+//   },
+//   {
+//     "query": "shipping time",
+//     "expected": [
+//       "How long does shipping take?",
+//       "What is the shipping timeframe?",
+//       "How long will delivery take?",
+//       "How long does it take for shipping?"
+//     ]
+//   },
+//   {
+//     "query": "how long to ship?",
+//     "expected": [
+//       "How long does shipping take?",
+//       "What is the shipping timeframe?",
+//       "How long will delivery take?",
+//       "How long does it take for shipping?"
+//     ]
+//   },
+//   {
+//     "query": "I need this before Saturday.",
+//     "expected": [
+//       "How long does shipping take?",
+//       "What is the shipping timeframe?",
+//       "How long will delivery take?",
+//       "How long does it take for shipping?"
+//     ]
+//   },
+//   {
+//     "query": "Calculate the mean time from order confirmation to physical delivery at a zip code 90210.",
+//     "expected": [
+//       "How long does shipping take?",
+//       "What is the shipping timeframe?",
+//       "How long will delivery take?",
+//       "How long does it take for shipping?"
+//     ]
+//   },
+//   {
+//     "query": "Do you send orders to addresses outside the United States?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "international shipping",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "ship to UK?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "My cousin lives in Spain. Can I send it to her?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "Query: geographic delivery constraints. Are they limited to geopolitical boundaries of the continental US?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "What is the protocol if my order arrives in an unacceptable condition?",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "damaged item",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "box was crushed",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "The product inside is broken.",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "The carrier's manifest indicates delivery, but the asset is not at the designated coordinates.",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "Am I able to correct the delivery location for an order I recently placed?",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "change address",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "I moved.",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "I put the wrong apartment number.",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "I erroneously input an incorrect geolocation identifier for shipment dispatch. Rectification procedure?",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "What are the different methods to get in touch with a support agent?",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "contact support",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "help number",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "I can't find the answer on your website.",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "My issue is not resolved through your autonomous knowledge system. Escalate to a human cognitive agent.",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "Do you provide the service of wrapping items as gifts?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "gift wrap",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "gift options",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "This is a present. Can you make it look nice?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "Can the packaging be optimized for a surprise revelation event?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "If I find a lower price on another platform, will you match it?",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "price match",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "beat competitor price?",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "I saw this for less on another site.",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "Engage price parity protocol for product SKU #789 relative to major online marketplaces.",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "Can I place an order through a telephone call?",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "phone order",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "order over phone",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "I don't like buying things online.",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "I require a non-web-based, voice-mediated procurement channel.",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "How do you protect my sensitive information like credit card numbers?",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "data security",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "is this site safe?",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "How do I know my info won't be stolen?",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "What cryptographic measures and data integrity protocols safeguard my PII and financial data in transit and at rest?",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "If an item goes on sale shortly after I buy it, can I get the difference refunded?",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "price adjustment",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "post-purchase discount",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "I just bought this and now it's 20% off.",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "Query regarding retroactive application of a new promotional valuation to a prior transaction.",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "Do you have a program that rewards frequent shoppers?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "loyalty program",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "rewards?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "Do I get points for shopping here?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "I am a high-volume purchaser. Do you have a tiered benefits system for customer retention?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "Do you accept Apple Pay as a form of payment?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "Can I get my order delivered the next day?",
+//     "expected": [
+//       "Do you offer expedited shipping?",
+//       "Can you provide expedited shipping?",
+//       "Is expedited shipping available for my order?",
+//       "How can I get my order shipped faster?"
+//     ]
+//   },
+//   {
+//     "query": "Is there a charge to have my order wrapped as a gift?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "I ordered the wrong size. How do I swap it?",
+//     "expected": [
+//       "Can I change or cancel an item in my order?",
+//       "Can I modify or cancel an item in my order?",
+//       "Is it possible to change or cancel an item in my order?",
+//       "How can I change or cancel an item in my order?"
+//     ]
+//   },
+//   {
+//     "query": "Once I return an item, how long until I get my money back?",
+//     "expected": [
+//       "How long does it take to process a refund?",
+//       "How long will it take to process my refund?",
+//       "What is the timeframe for processing a refund?",
+//       "How soon can I expect my refund to be processed?"
+//     ]
+//   },
+//   {
+//     "query": "Do you offer a discount for military personnel?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "If I buy a bookshelf, will you put it together for me?",
+//     "expected": [
+//       "Do you offer installation services for your products?",
+//       "Do you provide installation services?",
+//       "Can you install your products?",
+//       "Is installation available for your products?"
+//     ]
+//   },
+//   {
+//     "query": "Can I choose the color and engraving on this product?",
+//     "expected": [
+//       "Can I customize a product before ordering?",
+//       "Can I personalize a product before ordering?",
+//       "Is it possible to customize a product before purchase?",
+//       "How can I customize a product before ordering?"
+//     ]
+//   },
+//   {
+//     "query": "We are a company looking to buy in bulk. Do you have special rates?",
+//     "expected": [
+//       "Do you offer bulk or wholesale discounts?",
+//       "Are bulk or wholesale discounts available?",
+//       "Do you provide discounts for bulk or wholesale orders?",
+//       "What is your policy on bulk or wholesale discounts?"
+//     ]
+//   },
+//   {
+//     "query": "I bought this as a gift. What's the latest I can return it after the holidays?",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "Will you match a price I found on Amazon?",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "If I order from another country, will I have to pay extra fees when it arrives?",
+//     "expected": [
+//       "Are there additional taxes for international orders?",
+//       "Are there extra taxes for international orders?",
+//       "Do international orders have additional taxes?",
+//       "Will I be charged extra taxes for an international purchase?"
+//     ]
+//   },
+//   {
+//     "query": "If I buy these three items together, do I get a discount?",
+//     "expected": [
+//       "Do you offer bulk or wholesale discounts?",
+//       "Are bulk or wholesale discounts available?",
+//       "Do you provide discounts for bulk or wholesale orders?",
+//       "What is your policy on bulk or wholesale discounts?"
+//     ]
+//   },
+//   {
+//     "query": "Can I try this product before I decide to buy it?",
+//     "expected": [
+//       "Can I request a product demonstration before making a purchase?",
+//       "Can I see a product demo before buying?",
+//       "Is it possible to get a product demonstration before purchasing?",
+//       "How can I request a product demo before making a purchase?"
+//     ]
+//   },
+//   {
+//     "query": "Can I pay with Google Pay?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "How much extra is it to get 2-day shipping?",
+//     "expected": [
+//       "Do you offer expedited shipping?",
+//       "Can you provide expedited shipping?",
+//       "Is expedited shipping available for my order?",
+//       "How can I get my order shipped faster?"
+//     ]
+//   },
+//   {
+//     "query": "What are my choices for gift packaging?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "I want to change one item in my order for a different color.",
+//     "expected": [
+//       "Can I change or cancel an item in my order?",
+//       "Can I modify or cancel an item in my order?",
+//       "Is it possible to change or cancel an item in my order?",
+//       "How can I change or cancel an item in my order?"
+//     ]
+//   },
+//   {
+//     "query": "How many days until a refund shows up on my credit card?",
+//     "expected": [
+//       "How long does it take to process a refund?",
+//       "How long will it take to process my refund?",
+//       "What is the timeframe for processing a refund?",
+//       "How soon can I expect my refund to be processed?"
+//     ]
+//   },
+//   {
+//     "query": "If I buy a TV, will you mount it on my wall?",
+//     "expected": [
+//       "Do you offer installation services for your products?",
+//       "Do you provide installation services?",
+//       "Can you install your products?",
+//       "Is installation available for your products?"
+//     ]
+//   },
+//   {
+//     "query": "Can I add a monogram to this item?",
+//     "expected": [
+//       "Can I customize a product before ordering?",
+//       "Can I personalize a product before ordering?",
+//       "Is it possible to customize a product before purchase?",
+//       "How can I customize a product before ordering?"
+//     ]
+//   },
+//   {
+//     "query": "I need this tomorrow. What's the fastest way to get it?",
+//     "expected": [
+//       "Do you offer expedited shipping?",
+//       "Can you provide expedited shipping?",
+//       "Is expedited shipping available for my order?",
+//       "How can I get my order shipped faster?"
+//     ]
+//   },
+//   {
+//     "query": "The box was wet and the product is ruined.",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "I lost the receipt for my laptop. Can I still return it?",
+//     "expected": [
+//       "Can I return a product without a receipt?",
+//       "Can I return an item without a receipt?",
+//       "How do I return a product without a receipt?",
+//       "Is it possible to return a product without proof of purchase?"
+//     ]
+//   },
+//   {
+//     "query": "How much does it cost to ship to France, and how long will it take?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "I have two discount codes. Can I use both on one order?",
+//     "expected": [
+//       "Can I use multiple promo codes on a single order?",
+//       "Can I apply multiple promo codes to one order?",
+//       "Is it possible to use more than one promo code on a single purchase?",
+//       "How can I use multiple promo codes for one order?"
+//     ]
+//   },
+//   {
+//     "query": "The tracking for my order hasn't changed in 5 days.",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "Is there a limit to how long the message I can include with a gift can be?",
+//     "expected": [
+//       "Can I add a gift message to my order?",
+//       "Can I include a gift message with my order?",
+//       "Is it possible to add a gift message to my purchase?",
+//       "How can I add a gift message to my order?"
+//     ]
+//   },
+//   {
+//     "query": "The item I bought last week is now on sale. Can I get a credit?",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "sign up",
+//     "expected": [
+//       "How can I create an account?",
+//       "How do I sign up for an account?",
+//       "How can I register for an account?",
+//       "Can you explain how to create an account?"
+//     ]
+//   },
+//   {
+//     "query": "Do you take Bitcoin?",
+//     "expected": [
+//       "What payment methods do you accept?",
+//       "What payment options are available?",
+//       "What types of payments do you accept?",
+//       "Can you explain your payment options?"
+//     ]
+//   },
+//   {
+//     "query": "My order is going to Germany. How can I track it?",
+//     "expected": [
+//       "How can I track my order?",
+//       "How do I check my order status?",
+//       "Can you guide me on checking my order status?",
+//       "How can I monitor my order?"
+//     ]
+//   },
+//   {
+//     "query": "return item",
+//     "expected": [
+//       "What is your return policy?",
+//       "Can you provide details on your return policy?",
+//       "Can you explain your policy on returns?",
+//       "What are the rules for returning items?"
+//     ]
+//   },
+//   {
+//     "query": "cancel my order",
+//     "expected": [
+//       "Can I cancel my order?",
+//       "Is it possible to cancel my order?",
+//       "How can I cancel my order?",
+//       "What steps are needed to cancel my order?"
+//     ]
+//   },
+//   {
+//     "query": "I need this gift to arrive by Friday. What's the fastest option?",
+//     "expected": [
+//       "Do you offer expedited shipping?",
+//       "Can you provide expedited shipping?",
+//       "Is expedited shipping available for my order?",
+//       "How can I get my order shipped faster?"
+//     ]
+//   },
+//   {
+//     "query": "Can you ship to an APO address?",
+//     "expected": [
+//       "Do you offer international shipping?",
+//       "Can you ship internationally?",
+//       "Do you provide shipping to international destinations?",
+//       "Is international shipping available?"
+//     ]
+//   },
+//   {
+//     "query": "The screen on my phone is cracked. I need a replacement.",
+//     "expected": [
+//       "What should I do if my package is lost or damaged?",
+//       "What steps should I take if my package is lost or damaged?",
+//       "What should I do if my package is lost or damaged?",
+//       "How do I handle a lost or damaged package?"
+//     ]
+//   },
+//   {
+//     "query": "I need to change where you're sending my order. It hasn't shipped yet.",
+//     "expected": [
+//       "Can I change my shipping address after placing an order?",
+//       "Can I update my shipping address after ordering?",
+//       "Is it possible to change my shipping address after placing an order?",
+//       "How can I modify my shipping address after ordering?"
+//     ]
+//   },
+//   {
+//     "query": "Can I call support in the middle of the night?",
+//     "expected": [
+//       "How can I contact customer support?",
+//       "How do I reach customer support?",
+//       "What are the ways to contact customer support?",
+//       "How can I get in touch with customer service?"
+//     ]
+//   },
+//   {
+//     "query": "How much is your fancy gift wrapping?",
+//     "expected": [
+//       "Do you offer gift wrapping services?",
+//       "Is gift wrapping available?",
+//       "Can you wrap my order as a gift?",
+//       "Do you provide gift wrapping for orders?"
+//     ]
+//   },
+//   {
+//     "query": "I found this same product for less on Amazon. What now?",
+//     "expected": [
+//       "What is your price matching policy?",
+//       "Can you explain your price matching policy?",
+//       "How does your price matching policy work?",
+//       "What are the details of your price matching policy?"
+//     ]
+//   },
+//   {
+//     "query": "I can't use your website. How do I order by phone?",
+//     "expected": [
+//       "Can I order by phone?",
+//       "Can I place an order by phone?",
+//       "Is it possible to order over the phone?",
+//       "How can I order using a phone call?"
+//     ]
+//   },
+//   {
+//     "query": "Are you PCI DSS compliant?",
+//     "expected": [
+//       "Are my personal and payment details secure?",
+//       "Is my personal and payment information secure?",
+//       "How secure is my personal and payment information?",
+//       "Are my personal and payment details safe on your website?"
+//     ]
+//   },
+//   {
+//     "query": "I bought this yesterday and it's on sale today.",
+//     "expected": [
+//       "What is your price adjustment policy?",
+//       "Can you explain your price adjustment policy?",
+//       "What is your policy on price adjustments?",
+//       "How does your price adjustment policy work?"
+//     ]
+//   },
+//   {
+//     "query": "How do your loyalty points work?",
+//     "expected": [
+//       "Do you have a loyalty program?",
+//       "Is there a loyalty program available?",
+//       "Do you offer a rewards program?",
+//       "What is your loyalty program like?"
+//     ]
+//   },
+//   {
+//     "query": "Can I check out as a guest?",
+//     "expected": [
+//       "Can I order without creating an account?",
+//       "Can I place an order without an account?",
+//       "Is it possible to order as a guest?",
+//       "How can I order without registering?"
+//     ]
+//   },
+//   {
+//     "query": "We need to order 500 units. What's your best price?",
+//     "expected": [
+//       "Do you offer bulk or wholesale discounts?",
+//       "Are bulk or wholesale discounts available?",
+//       "Do you provide discounts for bulk or wholesale orders?",
+//       "What is your policy on bulk or wholesale discounts?"
+//     ]
+//   },
+//   {
+//     "query": "modify order",
+//     "expected": [
+//       "Can I change or cancel an item in my order?",
+//       "Can I modify or cancel an item in my order?",
+//       "Is it possible to change or cancel an item in my order?",
+//       "How can I change or cancel an item in my order?"
+//     ]
+//   },
+//   {
+//     "query": "Can I leave a review without using my name?",
+//     "expected": [
+//       "How can I leave a product review?",
+//       "How do I write a product review?",
+//       "Can you guide me on writing a product review?",
+//       "What is the process for leaving a product review?"
+//     ]
+//   },
+//   {
+//     "query": "The sale is already 30% off. Can I also use my 10% off code?",
+//     "expected": [
+//       "Can I use multiple promo codes on a single order?",
+//       "Can I apply multiple promo codes to one order?",
+//       "Is it possible to use more than one promo code on a single purchase?",
+//       "How can I use multiple promo codes for one order?"
+//     ]
+//   },
+//   {
+//     "query": "I got a blue one instead of a red one.",
+//     "expected": [
+//       "What should I do if I receive the wrong item?",
+//       "What should I do if I get the wrong item?",
+//       "How do I handle receiving an incorrect item?",
+//       "What steps should I take if I receive the wrong product?"
+//     ]
+//   },
+//   {
+//     "query": "What are my choices for faster shipping?",
+//     "expected": [
+//       "Do you offer expedited shipping?",
+//       "Can you provide expedited shipping?",
+//       "Is expedited shipping available for my order?",
+//       "How can I get my order shipped faster?"
+//     ]
+//   },
+//   {
+//     "query": "Can I get an alert when an out-of-stock item is back?",
+//     "expected": [
+//       "Can I order a product that is out of stock?",
+//       "Can I purchase an out-of-stock product?",
+//       "Is it possible to order a product that’s currently unavailable?",
+//       "How can I order a product that’s out of stock?"
+//     ]
+//   },
+//   {
+//     "query": "How do I stop getting your emails?",
+//     "expected": [
+//       "What is your email newsletter about?",
+//       "What does your email newsletter cover?",
+//       "What content is in your email newsletter?",
+//       "Can you tell me about your email newsletter?"
+//     ]
+//   },
+//   {
+//     "query": "When is live chat available?",
+//     "expected": [
+//       "Do you offer live chat support?",
+//       "Is live chat support available?",
+//       "Do you have live chat for customer support?",
+//       "Can I use live chat to contact customer service?"
+//     ]
+//   },
+//   {
+//     "query": "Can I have the gift sent directly to my friend?",
+//     "expected": [
+//       "Can I order a product as a gift?",
+//       "Can I purchase a product as a gift?",
+//       "Is it possible to order an item as a gift?",
+//       "How can I order a product for gifting?"
+//     ]
+//   },
+//   {
+//     "query": "My coupon code says it's expired.",
+//     "expected": [
+//       "What should I do if my discount code is not working?",
+//       "What do I do if my discount code doesn’t work?",
+//       "How can I fix a discount code that isn’t working?",
+//       "What steps should I take if my discount code fails?"
+//     ]
+//   },
+//   {
+//     "query": "The item was final sale, but it doesn't fit.",
+//     "expected": [
+//       "Can I return a product if it was a final sale item?",
+//       "Can I return an item marked as final sale?",
+//       "Is it possible to return a final sale product?",
+//       "How can I return a final sale item?"
+//     ]
+//   },
+//   {
+//     "query": "How much do you charge to install a dishwasher?",
+//     "expected": [
+//       "Do you offer installation services for your products?",
+//       "Do you provide installation services?",
+//       "Can you install your products?",
+//       "Is installation available for your products?"
+//     ]
+//   }
+// ]

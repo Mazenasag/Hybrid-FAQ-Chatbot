@@ -1,0 +1,162 @@
+[
+  {
+    "query": "create account",
+    "expected": "How can I create an account?"
+  },
+  {
+    "query": "payment methods",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "order track",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "return policy details",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "cancel order process",
+    "expected": "Can I cancel my order?"
+  },
+  {
+    "query": "shipping take",
+    "expected": "How long does shipping take?"
+  },
+  {
+    "query": "international shipping",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "lost package",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "change shipping",
+    "expected": "Can I change my shipping address after placing an order?"
+  },
+  {
+    "query": "contact customer support",
+    "expected": "How can I contact customer support?"
+  },
+  {
+    "query": "gift wrapping services",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "price matching policy",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "phone order placement",
+    "expected": "Can I order by phone?"
+  },
+  {
+    "query": "payment security details",
+    "expected": "Are my personal and payment details secure?"
+  },
+  {
+    "query": "price adjustment procedure",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "loyalty program information",
+    "expected": "Do you have a loyalty program?"
+  },
+  {
+    "query": "guest checkout option",
+    "expected": "Can I order without creating an account?"
+  },
+  {
+    "query": "bulk wholesale discounts",
+    "expected": "Do you offer bulk or wholesale discounts?"
+  },
+  {
+    "query": "change cancel item order",
+    "expected": "Can I change or cancel an item in my order?"
+  },
+  {
+    "query": "product review submission",
+    "expected": "How can I leave a product review?"
+  },
+  {
+    "query": "multiple promo codes",
+    "expected": "Can I use multiple promo codes on a single order?"
+  },
+  {
+    "query": "wrong item received",
+    "expected": "What should I do if I receive the wrong item?"
+  },
+  {
+    "query": "expedited shipping options",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "out of stock ordering",
+    "expected": "Can I order a product that is out of stock?"
+  },
+  {
+    "query": "email newsletter content",
+    "expected": "What is your email newsletter about?"
+  },
+  {
+    "query": "changed mind return",
+    "expected": "Can I return a product if I changed my mind?"
+  },
+  {
+    "query": "live chat support hours",
+    "expected": "Do you offer live chat support?"
+  },
+  {
+    "query": "gift order shipment",
+    "expected": "Can I order a product as a gift?"
+  },
+  {
+    "query": "discount code issues",
+    "expected": "What should I do if my discount code is not working?"
+  },
+  {
+    "query": "final sale return exception",
+    "expected": "Can I return a product if it was a final sale item?"
+  },
+  {
+    "query": "product installation services",
+    "expected": "Do you offer installation services for your products?"
+  },
+  {
+    "query": "discontinued product ordering",
+    "expected": "Can I order a product that is discontinued?"
+  },
+  {
+    "query": "return without receipt",
+    "expected": "Can I return a product without a receipt?"
+  },
+  {
+    "query": "international delivery ordering",
+    "expected": "Can I order a product for delivery to a different country?"
+  },
+  {
+    "query": "gift message addition",
+    "expected": "Can I add a gift message to my order?"
+  },
+  {
+    "query": "product demonstration request",
+    "expected": "Can I request a product demonstration before making a purchase?"
+  },
+  {
+    "query": "coming soon product ordering",
+    "expected": "Can I order a product that is listed as 'coming soon'?"
+  },
+  {
+    "query": "order invoice request",
+    "expected": "Can I request an invoice for my order?"
+  },
+  {
+    "query": "edition product",
+    "expected": "Can I order a product that is labeled as 'limited edition'?"
+  },
+  {
+    "query": "return  original packaging",
+    "expected": "Can I return a product if I no longer have the original packaging?"
+  }
+]

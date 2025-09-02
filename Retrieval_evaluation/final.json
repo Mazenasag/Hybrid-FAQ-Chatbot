@@ -1,0 +1,1197 @@
+[
+    {
+        "question": "How can I create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+        "keywords": ["account", "create", "website"]
+    },
+    {
+        "question": "How do I sign up for an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+        "keywords": ["account", "sign up", "create"]
+    },
+    {
+        "question": "How can I register for an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+        "keywords": ["register", "account", "create"]
+    },
+    {
+        "question": "Can you explain how to create an account?",
+        "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+        "keywords": ["account", "website", "create"]
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+        "keywords": ["paypal", "accept", "online"]
+    },
+    {
+        "question": "What payment options are available?",
+        "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+        "keywords": ["paypal", "online", "accept"]
+    },
+    {
+        "question": "What types of payments do you accept?",
+        "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+        "keywords": ["paypal", "payment", "accept"]
+    },
+    {
+        "question": "Can you explain your payment options?",
+        "answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+        "keywords": ["paypal", "accept", "online"]
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+        "keywords": ["shipment", "order", "track"]
+    },
+    {
+        "question": "How do I check my order status?",
+        "answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+        "keywords": ["shipment", "status", "order"]
+    },
+    {
+        "question": "Can you guide me on checking my order status?",
+        "answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+        "keywords": ["status", "shipment", "order"]
+    },
+    {
+        "question": "How can I monitor my order?",
+        "answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+        "keywords": ["order", "shipment", "account"]
+    },
+    {
+        "question": "What is your return policy?",
+        "answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+        "keywords": ["refund", "return", "policy"]
+    },
+    {
+        "question": "Can you provide details on your return policy?",
+        "answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+        "keywords": ["refund", "return", "policy"]
+    },
+    {
+        "question": "Can you explain your policy on returns?",
+        "answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+        "keywords": ["refund", "return", "policy"]
+    },
+    {
+        "question": "What are the rules for returning items?",
+        "answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+        "keywords": ["return", "refund", "policy"]
+    },
+    {
+        "question": "Can I cancel my order?",
+        "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+        "keywords": ["cancel", "order", "contact"]
+    },
+    {
+        "question": "Is it possible to cancel my order?",
+        "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+        "keywords": ["cancel", "order", "possible"]
+    },
+    {
+        "question": "How can I cancel my order?",
+        "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+        "keywords": ["cancel", "order", "contact"]
+    },
+    {
+        "question": "What steps are needed to cancel my order?",
+        "answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+        "keywords": ["cancel", "order", "contact"]
+    },
+    {
+        "question": "How long does shipping take?",
+        "answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+        "keywords": ["shipping", "express", "destination"]
+    },
+    {
+        "question": "What is the shipping timeframe?",
+        "answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+        "keywords": ["shipping", "express", "timeframe"]
+    },
+    {
+        "question": "How long will delivery take?",
+        "answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+        "keywords": ["delivery", "shipping", "express"]
+    },
+    {
+        "question": "How long does it take for shipping?",
+        "answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+        "keywords": ["shipping", "express", "destination"]
+    },
+    {
+        "question": "Do you offer international shipping?",
+        "answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+        "keywords": ["shipping", "international", "availability"]
+    },
+    {
+        "question": "Can you ship internationally?",
+        "answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+        "keywords": ["shipping", "international", "availability"]
+    },
+    {
+        "question": "Do you provide shipping to international destinations?",
+        "answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+        "keywords": ["shipping", "international", "availability"]
+    },
+    {
+        "question": "Is international shipping available?",
+        "answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+        "keywords": ["shipping", "international", "availability"]
+    },
+    {
+        "question": "What should I do if my package is lost or damaged?",
+        "answer": "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.",
+        "keywords": ["package", "transit", "contact"]
+    },
+    {
+        "question": "What steps should I take if my package is lost or damaged?",
+        "answer": "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.",
+        "keywords": ["package", "transit", "contact"]
+    },
+    {
+        "question": "How do I handle a lost or damaged package?",
+        "answer": "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.",
+        "keywords": ["package", "transit", "contact"]
+    },
+    {
+        "question": "Can I change my shipping address after placing an order?",
+        "answer": "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+        "keywords": ["address", "order", "change"]
+    },
+    {
+        "question": "Can I update my shipping address after ordering?",
+        "answer": "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+        "keywords": ["address", "update", "order"]
+    },
+    {
+        "question": "Is it possible to change my shipping address after placing an order?",
+        "answer": "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+        "keywords": ["address", "order", "change"]
+    },
+    {
+        "question": "How can I modify my shipping address after ordering?",
+        "answer": "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+        "keywords": ["address", "modify", "change"]
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+        "keywords": ["contact", "support", "address"]
+    },
+    {
+        "question": "How do I reach customer support?",
+        "answer": "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+        "keywords": ["contact", "support", "address"]
+    },
+    {
+        "question": "What are the ways to contact customer support?",
+        "answer": "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+        "keywords": ["contact", "support", "phone"]
+    },
+    {
+        "question": "How can I get in touch with customer service?",
+        "answer": "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+        "keywords": ["contact", "service", "phone"]
+    },
+    {
+        "question": "Do you offer gift wrapping services?",
+        "answer": "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+        "keywords": ["wrapping", "order", "fee"]
+    },
+    {
+        "question": "Is gift wrapping available?",
+        "answer": "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+        "keywords": ["wrapping", "order", "available"]
+    },
+    {
+        "question": "Can you wrap my order as a gift?",
+        "answer": "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+        "keywords": ["wrapping", "gift", "order"]
+    },
+    {
+        "question": "Do you provide gift wrapping for orders?",
+        "answer": "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+        "keywords": ["wrapping", "order", "fee"]
+    },
+    {
+        "question": "What is your price matching policy?",
+        "answer": "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+        "keywords": ["policy", "price", "matching"]
+    },
+    {
+        "question": "Can you explain your price matching policy?",
+        "answer": "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+        "keywords": ["policy", "price", "matching"]
+    },
+    {
+        "question": "How does your price matching policy work?",
+        "answer": "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+        "keywords": ["price", "matching", "policy"]
+    },
+    {
+        "question": "What are the details of your price matching policy?",
+        "answer": "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+        "keywords": ["competitor", "price", "identical"]
+    },
+    {
+        "question": "Can I order by phone?",
+        "answer": "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+        "keywords": ["order", "phone", "transaction"]
+    },
+    {
+        "question": "Can I place an order by phone?",
+        "answer": "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+        "keywords": ["order", "phone", "transaction"]
+    },
+    {
+        "question": "Is it possible to order over the phone?",
+        "answer": "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+        "keywords": ["order", "phone", "possible"]
+    },
+    {
+        "question": "How can I order using a phone call?",
+        "answer": "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+        "keywords": ["order", "phone", "transaction"]
+    },
+    {
+        "question": "Are my personal and payment details secure?",
+        "answer": "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+        "keywords": ["secure", "secure", "payment"]
+    },
+    {
+        "question": "Is my personal and payment information secure?",
+        "answer": "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+        "keywords": ["secure", "secure", "payment"]
+    },
+    {
+        "question": "How secure is my personal and payment information?",
+        "answer": "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+        "keywords": ["secure", "secure", "payment"]
+    },
+    {
+        "question": "Are my personal and payment details safe on your website?",
+        "answer": "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+        "keywords": ["safe", "payment", "encryption"]
+    },
+    {
+        "question": "What is your price adjustment policy?",
+        "answer": "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+        "keywords": ["price", "policy", "adjustment"]
+    },
+    {
+        "question": "Can you explain your price adjustment policy?",
+        "answer": "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+        "keywords": ["price", "adjustment", "policy"]
+    },
+    {
+        "question": "What is your policy on price adjustments?",
+        "answer": "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+        "keywords": ["price", "policy", "adjustment"]
+    },
+    {
+        "question": "How does your price adjustment policy work?",
+        "answer": "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+        "keywords": ["price", "adjustment", "product"]
+    },
+    {
+        "question": "Do you have a loyalty program?",
+        "answer": "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+        "keywords": ["loyalty", "earn", "program"]
+    },
+    {
+        "question": "Is there a loyalty program available?",
+        "answer": "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+        "keywords": ["loyalty", "program", "learn"]
+    },
+    {
+        "question": "Do you offer a rewards program?",
+        "answer": "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+        "keywords": ["loyalty", "earn", "program"]
+    },
+    {
+        "question": "What is your loyalty program like?",
+        "answer": "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+        "keywords": ["loyalty", "earn", "program"]
+    },
+    {
+        "question": "Can I order without creating an account?",
+        "answer": "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+        "keywords": ["guest", "order", "account"]
+    },
+    {
+        "question": "Can I place an order without an account?",
+        "answer": "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+        "keywords": ["guest", "order", "account"]
+    },
+    {
+        "question": "Is it possible to order as a guest?",
+        "answer": "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+        "keywords": ["guest", "order", "account"]
+    },
+    {
+        "question": "How can I order without registering?",
+        "answer": "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+        "keywords": ["guest", "order", "account"]
+    },
+    {
+        "question": "Do you offer bulk or wholesale discounts?",
+        "answer": "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+        "keywords": ["wholesale", "bulk", "offer"]
+    },
+    {
+        "question": "Are bulk or wholesale discounts available?",
+        "answer": "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+        "keywords": ["wholesale", "bulk", "offer"]
+    },
+    {
+        "question": "Do you provide discounts for bulk or wholesale orders?",
+        "answer": "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+        "keywords": ["wholesale", "bulk", "offer"]
+    },
+    {
+        "question": "What is your policy on bulk or wholesale discounts?",
+        "answer": "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+        "keywords": ["wholesale", "bulk", "offer"]
+    },
+    {
+        "question": "Can I change or cancel an item in my order?",
+        "answer": "If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+        "keywords": ["cancel", "order", "change"]
+    },
+    {
+        "question": "Can I modify or cancel an item in my order?",
+        "answer": "If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+        "keywords": ["cancel", "modify", "change"]
+    },
+    {
+        "question": "Is it possible to change or cancel an item in my order?",
+        "answer": "If you need to change or cancel an item in my order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+        "keywords": ["cancel", "order", "change"]
+    },
+    {
+        "question": "How can I change or cancel an item in my order?",
+        "answer": "If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+        "keywords": ["cancel", "order", "change"]
+    },
+    {
+        "question": "How can I leave a product review?",
+        "answer": "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+        "keywords": ["review", "product", "write"]
+    },
+    {
+        "question": "How do I write a product review?",
+        "answer": "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+        "keywords": ["review", "product", "write"]
+    },
+    {
+        "question": "Can you guide me on writing a product review?",
+        "answer": "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+        "keywords": ["review", "product", "write"]
+    },
+    {
+        "question": "What is the process for leaving a product review?",
+        "answer": "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+        "keywords": ["review", "product", "write"]
+    },
+    {
+        "question": "Can I use multiple promo codes on a single order?",
+        "answer": "Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.",
+        "keywords": ["discount", "multiple", "order"]
+    },
+    {
+        "question": "Can I apply multiple promo codes to one order?",
+        "answer": "Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.",
+        "keywords": ["discount", "multiple", "apply"]
+    },
+    {
+        "question": "Is it possible to use more than one promo code on a single purchase?",
+        "answer": "Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.",
+        "keywords": ["discount", "code", "order"]
+    },
+    {
+        "question": "How can I use multiple promo codes for one order?",
+        "answer": "Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.",
+        "keywords": ["discount", "multiple", "order"]
+    },
+    {
+        "question": "What should I do if I receive the wrong item?",
+        "answer": "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+        "keywords": ["item", "order", "receive"]
+    },
+    {
+        "question": "What should I do if I get the wrong item?",
+        "answer": "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+        "keywords": ["item", "order", "wrong"]
+    },
+    {
+        "question": "How do I handle receiving an incorrect item?",
+        "answer": "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+        "keywords": ["item", "incorrect", "contact"]
+    },
+    {
+        "question": "What steps should I take if I receive the wrong product?",
+        "answer": "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+        "keywords": ["wrong", "item", "product"]
+    },
+    {
+        "question": "Do you offer expedited shipping?",
+        "answer": "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+        "keywords": ["shipping", "delivery", "select"]
+    },
+    {
+        "question": "Can you provide expedited shipping?",
+        "answer": "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+        "keywords": ["delivery", "shipping", "select"]
+    },
+    {
+        "question": "Is expedited shipping available for my order?",
+        "answer": "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+        "keywords": ["delivery", "shipping", "order"]
+    },
+    {
+        "question": "How can I get my order shipped faster?",
+        "answer": "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+        "keywords": ["delivery", "order", "select"]
+    },
+    {
+        "question": "Can I order a product that is out of stock?",
+        "answer": "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+        "keywords": ["order", "stock", "available"]
+    },
+    {
+        "question": "Can I purchase an out-of-stock product?",
+        "answer": "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+        "keywords": ["purchase", "stock", "product"]
+    },
+    {
+        "question": "Is it possible to order a product that’s currently unavailable?",
+        "answer": "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+        "keywords": ["order", "unavailable", "product"]
+    },
+    {
+        "question": "How can I order a product that’s out of stock?",
+        "answer": "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+        "keywords": ["order", "stock", "product"]
+    },
+    {
+        "question": "What is your email newsletter about?",
+        "answer": "Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.",
+        "keywords": ["newsletter", "subscribe", "product"]
+    },
+    {
+        "question": "What does your email newsletter cover?",
+        "answer": "Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.",
+        "keywords": ["newsletter", "subscribe", "website"]
+    },
+    {
+        "question": "What content is in your email newsletter?",
+        "answer": "Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.",
+        "keywords": ["newsletter", "content", "subscribe"]
+    },
+    {
+        "question": "Can you tell me about your email newsletter?",
+        "answer": "Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.",
+        "keywords": ["newsletter", "product", "subscribe"]
+    },
+    {
+        "question": "Can I return a product if I changed my mind?",
+        "answer": "Yes, you can return a product if you changed your mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+        "keywords": ["return", "refund", "policy"]
+    },
+    {
+        "question": "Is it possible to return a product if I change my mind?",
+        "answer": "Yes, you can return a product if you changed your mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+        "keywords": ["return", "refund", "change"]
+    },
+    {
+        "question": "Can I return an item if I no longer want it?",
+        "answer": "Yes, you can return a product if you changed my mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+        "keywords": ["return", "refund", "want"]
+    },
+    {
+        "question": "How can I return a product if I don’t want it anymore?",
+        "answer": "Yes, you can return a product if you changed my mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+        "keywords": ["return", "refund", "product"]
+    },
+    {
+        "question": "Do you offer live chat support?",
+        "answer": "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+        "keywords": ["chat", "support", "website"]
+    },
+    {
+        "question": "Is live chat support available?",
+        "answer": "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+        "keywords": ["chat", "support", "live"]
+    },
+    {
+        "question": "Do you have live chat for customer support?",
+        "answer": "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+        "keywords": ["chat", "support", "website"]
+    },
+    {
+        "question": "Can I use live chat to contact customer service?",
+        "answer": "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+        "keywords": ["chat", "live", "support"]
+    },
+    {
+        "question": "Can I order a product as a gift?",
+        "answer": "Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.",
+        "keywords": ["gift", "recipient", "order"]
+    },
+    {
+        "question": "Can I purchase a product as a gift?",
+        "answer": "Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.",
+        "keywords": ["gift", "purchase", "recipient"]
+    },
+    {
+        "question": "Is it possible to order an item as a gift?",
+        "answer": "Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.",
+        "keywords": ["gift", "recipient", "order"]
+    },
+    {
+        "question": "How can I order a product for gifting?",
+        "answer": "Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.",
+        "keywords": ["gift", "recipient", "order"]
+    },
+    {
+        "question": "What should I do if my discount code is not working?",
+        "answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+        "keywords": ["code", "issue", "take"]
+    },
+    {
+        "question": "What do I do if my discount code doesn’t work?",
+        "answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+        "keywords": ["code", "issue", "take"]
+    },
+    {
+        "question": "How can I fix a discount code that isn’t working?",
+        "answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+        "keywords": ["code", "issue", "take"]
+    },
+    {
+        "question": "What steps should I take if my discount code fails?",
+        "answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+        "keywords": ["code", "issue", "take"]
+    },
+    {
+        "question": "Can I return a product if it was a final sale item?",
+        "answer": "Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.",
+        "keywords": ["return", "refund", "final"]
+    },
+    {
+        "question": "Can I return an item marked as final sale?",
+        "answer": "Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.",
+        "keywords": ["sale", "return", "refund"]
+    },
+    {
+        "question": "Is it possible to return a final sale product?",
+        "answer": "Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.",
+        "keywords": ["return", "refund", "final"]
+    },
+    {
+        "question": "How can I return a final sale item?",
+        "answer": "Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.",
+        "keywords": ["return", "refund", "final"]
+    },
+    {
+        "question": "Do you offer installation services for your products?",
+        "answer": "Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.",
+        "keywords": ["available", "product", "contact"]
+    },
+    {
+        "question": "Do you provide installation services?",
+        "answer": "Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.",
+        "keywords": ["available", "contact", "request"]
+    },
+    {
+        "question": "Can you install your products?",
+        "answer": "Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.",
+        "keywords": ["install", "product", "available"]
+    },
+    {
+        "question": "Is installation available for your products?",
+        "answer": "Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.",
+        "keywords": ["installation", "available", "product"]
+    },
+    {
+        "question": "Can I order a product that is discontinued?",
+        "answer": "Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.",
+        "keywords": ["discontinued", "discontinue", "product"]
+    },
+    {
+        "question": "Can I purchase a discontinued product?",
+        "answer": "Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.",
+        "keywords": ["discontinued", "discontinue", "product"]
+    },
+    {
+        "question": "Is it possible to order a product that’s been discontinued?",
+        "answer": "Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.",
+        "keywords": ["discontinued", "discontinue", "product"]
+    },
+    {
+        "question": "How can I buy a discontinued item?",
+        "answer": "Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.",
+        "keywords": ["purchase", "alternative", "buy"]
+    },
+    {
+        "question": "Can I return a product without a receipt?",
+        "answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.",
+        "keywords": ["receipt", "return", "refund"]
+    },
+    {
+        "question": "Can I return an item without a receipt?",
+        "answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.",
+        "keywords": ["receipt", "return", "refund"]
+    },
+    {
+        "question": "How do I return a product without a receipt?",
+        "answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.",
+        "keywords": ["return", "refund", "receipt"]
+    },
+    {
+        "question": "Is it possible to return a product without proof of purchase?",
+        "answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.",
+        "keywords": ["return", "refund", "receipt"]
+    },
+    {
+        "question": "Can I add a gift message to my order?",
+        "answer": "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+        "keywords": ["message", "personalized", "order"]
+    },
+    {
+        "question": "Can I include a gift message with my order?",
+        "answer": "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+        "keywords": ["message", "personalized", "order"]
+    },
+    {
+        "question": "Is it possible to add a gift message to my purchase?",
+        "answer": "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+        "keywords": ["message", "personalized", "purchase"]
+    },
+    {
+        "question": "How can I add a gift message to my order?",
+        "answer": "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+        "keywords": ["message", "personalized", "order"]
+    },
+    {
+        "question": "Can I request a product demonstration before making a purchase?",
+        "answer": "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+        "keywords": ["demonstration", "purchase", "request"]
+    },
+    {
+        "question": "Can I see a product demo before buying?",
+        "answer": "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+        "keywords": ["demo", "demonstration", "purchase"]
+    },
+    {
+        "question": "Is it possible to get a product demonstration before purchasing?",
+        "answer": "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+        "keywords": ["demonstration", "purchasing", "purchase"]
+    },
+    {
+        "question": "How can I request a product demo before making a purchase?",
+        "answer": "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+        "keywords": ["demo", "demonstration", "purchase"]
+    },
+    {
+        "question": "Can I order a product that is listed as 'coming soon'?",
+        "answer": "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+        "keywords": ["order", "immediate", "product"]
+    },
+    {
+        "question": "Can I purchase a product marked as 'coming soon'?",
+        "answer": "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+        "keywords": ["immediate", "product", "purchase"]
+    },
+    {
+        "question": "Is it possible to order a 'coming soon' product?",
+        "answer": "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+        "keywords": ["soon", "order", "product"]
+    },
+    {
+        "question": "How can I order a product listed as 'coming soon'?",
+        "answer": "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+        "keywords": ["order", "product", "purchase"]
+    },
+    {
+        "question": "Can I request an invoice for my order?",
+        "answer": "Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.",
+        "keywords": ["invoice", "order", "request"]
+    },
+    {
+        "question": "How can I get an invoice for my order?",
+        "answer": "Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.",
+        "keywords": ["invoice", "order", "require"]
+    },
+    {
+        "question": "Can I obtain an invoice for my purchase?",
+        "answer": "Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.",
+        "keywords": ["invoice", "purchase", "order"]
+    },
+    {
+        "question": "Is it possible to request an invoice for my order?",
+        "answer": "Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.",
+        "keywords": ["invoice", "order", "request"]
+    },
+    {
+        "question": "Can I order a product that is labeled as 'limited edition'?",
+        "answer": "‘Limited edition’ products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+        "keywords": ["limited", "restrict", "availability"]
+    },
+    {
+        "question": "Can I purchase a limited edition product?",
+        "answer": "‘Limited edition’ products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+        "keywords": ["limited", "restrict", "availability"]
+    },
+    {
+        "question": "Is it possible to order a product labeled as 'limited edition'?",
+        "answer": "‘Limited edition’ products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+        "keywords": ["limited", "restrict", "availability"]
+    },
+    {
+        "question": "How can I buy a limited edition item?",
+        "answer": "‘Limited edition’ products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+        "keywords": ["limited", "restrict", "availability"]
+    },
+    {
+        "question": "Can I return a product if I no longer have the original packaging?",
+        "answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+        "keywords": ["return", "refund", "packaging"]
+    },
+    {
+        "question": "Can I return a product without the original packaging?",
+        "answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+        "keywords": ["return", "refund", "packaging"]
+    },
+    {
+        "question": "How do I return an item without its original packaging?",
+        "answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+        "keywords": ["return", "refund", "packaging"]
+    },
+    {
+        "question": "Is it possible to return a product without the original box?",
+        "answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+        "keywords": ["return", "refund", "packaging"]
+    },
+    {
+        "question": "Can I order a product if it is listed as 'pre-order' with other in-stock items?",
+        "answer": "Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.",
+        "keywords": ["order", "available", "product"]
+    },
+    {
+        "question": "Can I order pre-order items with in-stock products?",
+        "answer": "Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.",
+        "keywords": ["order", "available", "mix"]
+    },
+    {
+        "question": "Is it possible to combine pre-order and in-stock items in one order?",
+        "answer": "Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.",
+        "keywords": ["order", "combine", "mix"]
+    },
+    {
+        "question": "What happens if I order pre-order items with in-stock items?",
+        "answer": "Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.",
+        "keywords": ["order", "mix", "available"]
+    },
+    {
+        "question": "Can I return a product if it was damaged during shipping?",
+        "answer": "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+        "keywords": ["return", "refund", "product"]
+    },
+    {
+        "question": "Can I return a product damaged during shipping?",
+        "answer": "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+        "keywords": ["return", "refund", "shipping"]
+    },
+    {
+        "question": "How do I return an item damaged in transit?",
+        "answer": "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+        "keywords": ["return", "refund", "shipping"]
+    },
+    {
+        "question": "What should I do if my product arrives damaged?",
+        "answer": "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+        "keywords": ["return", "refund", "product"]
+    },
+    {
+        "question": "Can I order a product if it is listed as 'backordered'?",
+        "answer": "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+        "keywords": ["order", "stock", "product"]
+    },
+    {
+        "question": "Can I purchase a backordered product?",
+        "answer": "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+        "keywords": ["backordered", "order", "purchase"]
+    },
+    {
+        "question": "Is it possible to order a product on backorder?",
+        "answer": "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+        "keywords": ["backorder", "order", "stock"]
+    },
+    {
+        "question": "How can I order a backordered item?",
+        "answer": "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+        "keywords": ["backordered", "order", "item"]
+    },
+    {
+        "question": "Can I return a product if it was purchased during a sale or with a discount?",
+        "answer": "Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.",
+        "keywords": ["refund", "return", "discount"]
+    },
+    {
+        "question": "Can I return an item bought on sale or with a discount?",
+        "answer": "Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.",
+        "keywords": ["refund", "return", "discount"]
+    },
+    {
+        "question": "Is it possible to return a discounted product?",
+        "answer": "Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.",
+        "keywords": ["refund", "return", "discount"]
+    },
+    {
+        "question": "How can I return a product purchased during a sale?",
+        "answer": "Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.",
+        "keywords": ["refund", "return", "sale"]
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "To reset your password, go to the login page, click 'Forgot Password,' and follow the instructions to receive a password reset link via email.",
+        "keywords": ["password", "reset", "email"]
+    },
+    {
+        "question": "How do I change my password if I forgot it?",
+        "answer": "To reset your password, go to the login page, click 'Forgot Password,' and follow the instructions to receive a password reset link via email.",
+        "keywords": ["password", "reset", "forgot"]
+    },
+    {
+        "question": "Can you guide me on resetting my password?",
+        "answer": "To reset your password, go to the login page, click 'Forgot Password,' and follow the instructions to receive a password reset link via email.",
+        "keywords": ["password", "reset", "email"]
+    },
+    {
+        "question": "What is the process for resetting my password?",
+        "answer": "To reset your password, go to the login page, click 'Forgot Password,' and follow the instructions to receive a password reset link via email.",
+        "keywords": ["password", "reset", "email"]
+    },
+    {
+        "question": "How do I check if a product is in stock?",
+        "answer": "You can check product availability by visiting the product page on our website, where the stock status is displayed. For further assistance, contact our customer support team.",
+        "keywords": ["availability", "stock", "check"]
+    },
+    {
+        "question": "How can I see if a product is in stock?",
+        "answer": "You can check product availability by visiting the product page on our website, where the stock status is displayed. For further assistance, contact our customer support team.",
+        "keywords": ["availability", "stock", "product"]
+    },
+    {
+        "question": "How do I find out if a product is available?",
+        "answer": "You can check product availability by visiting the product page on our website, where the stock status is displayed. For further assistance, contact our customer support team.",
+        "keywords": ["availability", "product", "check"]
+    },
+    {
+        "question": "Can I check a product’s stock status?",
+        "answer": "You can check product availability by visiting the product page on our website, where the stock status is displayed. For further assistance, contact our customer support team.",
+        "keywords": ["availability", "product", "status"]
+    },
+    {
+        "question": "Do you offer promotions or discounts?",
+        "answer": "Yes, we offer seasonal promotions and discounts. Check our website’s 'Promotions' page or subscribe to our newsletter for the latest offers.",
+        "keywords": ["seasonal", "newsletter", "offer"]
+    },
+    {
+        "question": "Are there any promotions or discounts available?",
+        "answer": "Yes, we offer seasonal promotions and discounts. Check our website’s 'Promotions' page or subscribe to our newsletter for the latest offers.",
+        "keywords": ["seasonal", "newsletter", "subscribe"]
+    },
+    {
+        "question": "Do you have any current deals or discounts?",
+        "answer": "Yes, we offer seasonal promotions and discounts. Check our website’s 'Promotions' page or subscribe to our newsletter for the latest offers.",
+        "keywords": ["seasonal", "newsletter", "offer"]
+    },
+    {
+        "question": "Can you tell me about your promotions or discounts?",
+        "answer": "Yes, we offer seasonal promotions and discounts. Check our website’s 'Promotions' page or subscribe to our newsletter for the latest offers.",
+        "keywords": ["seasonal", "newsletter", "website"]
+    },
+    {
+        "question": "How are shipping costs calculated?",
+        "answer": "Shipping costs are calculated based on the weight, dimensions, and destination of your order, as well as the selected shipping method. View the cost at checkout.",
+        "keywords": ["cost", "be", "order"]
+    },
+    {
+        "question": "How do you determine shipping costs?",
+        "answer": "Shipping costs are calculated based on the weight, dimensions, and destination of your order, as well as the selected shipping method. View the cost at checkout.",
+        "keywords": ["cost", "be", "order"]
+    },
+    {
+        "question": "What factors affect shipping costs?",
+        "answer": "Shipping costs are calculated based on the weight, dimensions, and destination of your order, as well as the selected shipping method. View the cost at checkout.",
+        "keywords": ["cost", "be", "order"]
+    },
+    {
+        "question": "Can you explain how shipping costs are calculated?",
+        "answer": "Shipping costs are calculated based on the weight, dimensions, and destination of your order, as well as the selected shipping method. View the cost at checkout.",
+        "keywords": ["cost", "be", "order"]
+    },
+    {
+        "question": "How can I delete my account?",
+        "answer": "To delete your account, contact our customer support team with your account details. We will process your request and confirm deletion within 48 hours.",
+        "keywords": ["account", "delete", "deletion"]
+    },
+    {
+        "question": "How do I remove my account?",
+        "answer": "To delete your account, contact our customer support team with your account details. We will process your request and confirm deletion within 48 hours.",
+        "keywords": ["account", "remove", "deletion"]
+    },
+    {
+        "question": "Can I delete my account from your website?",
+        "answer": "To delete your account, contact our customer support team with your account details. We will process your request and confirm deletion within 48 hours.",
+        "keywords": ["account", "deletion", "confirm"]
+    },
+    {
+        "question": "What steps are needed to delete my account?",
+        "answer": "To delete your account, contact our customer support team with your account details. We will process your request and confirm deletion within 48 hours.",
+        "keywords": ["delete", "account", "deletion"]
+    },
+    {
+        "question": "What is your product warranty policy?",
+        "answer": "Our products come with a one-year warranty against manufacturing defects. Contact customer support with your order details to initiate a warranty claim.",
+        "keywords": ["warranty", "policy", "product"]
+    },
+    {
+        "question": "Can you explain your product warranty policy?",
+        "answer": "Our products come with a one-year warranty against manufacturing defects. Contact customer support with your order details to initiate a warranty claim.",
+        "keywords": ["warranty", "policy", "product"]
+    },
+    {
+        "question": "What is the warranty for your products?",
+        "answer": "Our products come with a one-year warranty against manufacturing defects. Contact customer support with your order details to initiate a warranty claim.",
+        "keywords": ["warranty", "support", "claim"]
+    },
+    {
+        "question": "How does your product warranty work?",
+        "answer": "Our products come with a one-year warranty against manufacturing defects. Contact customer support with your order details to initiate a warranty claim.",
+        "keywords": ["warranty", "product", "work"]
+    },
+    {
+        "question": "What should I do if my payment is declined?",
+        "answer": "If your payment is declined, verify your payment details and ensure sufficient funds. Contact customer support or your bank for further assistance.",
+        "keywords": ["payment", "bank", "assistance"]
+    },
+    {
+        "question": "What do I do if my payment is declined?",
+        "answer": "If your payment is declined, verify your payment details and ensure sufficient funds. Contact customer support or your bank for further assistance.",
+        "keywords": ["payment", "bank", "assistance"]
+    },
+    {
+        "question": "How can I resolve a declined payment?",
+        "answer": "If your payment is declined, verify your payment details and ensure sufficient funds. Contact customer support or your bank for further assistance.",
+        "keywords": ["payment", "resolve", "assistance"]
+    },
+    {
+        "question": "What steps should I take if my payment fails?",
+        "answer": "If your payment is declined, verify your payment details and ensure sufficient funds. Contact customer support or your bank for further assistance.",
+        "keywords": ["payment", "assistance", "support"]
+    },
+    {
+        "question": "How do I confirm my order was placed?",
+        "answer": "You’ll receive an order confirmation email with your order details. Check your account’s 'Order History' or contact customer support if you don’t receive it.",
+        "keywords": ["confirm", "support", "order"]
+    },
+    {
+        "question": "How can I verify my order was placed?",
+        "answer": "You’ll receive an order confirmation email with your order details. Check your account’s 'Order History' or contact customer support if you don’t receive it.",
+        "keywords": ["verify", "order", "check"]
+    },
+    {
+        "question": "Can I confirm that my order went through?",
+        "answer": "You’ll receive an order confirmation email with your order details. Check your account’s 'Order History' or contact customer support if you don’t receive it.",
+        "keywords": ["confirm", "support", "receive"]
+    },
+    {
+        "question": "What steps do I take to ensure my order was placed?",
+        "answer": "You’ll receive an order confirmation email with your order details. Check your account’s 'Order History' or contact customer support if you don’t receive it.",
+        "keywords": ["order", "receive", "email"]
+    },
+    {
+        "question": "Can I change the size or color of my order?",
+        "answer": "If your order hasn’t been shipped, contact customer support to request size or color changes, subject to availability.",
+        "keywords": ["order", "change", "color"]
+    },
+    {
+        "question": "Can I modify the size or color of my order?",
+        "answer": "If your order hasn’t been shipped, contact customer support to request size or color changes, subject to availability.",
+        "keywords": ["modify", "change", "order"]
+    },
+    {
+        "question": "How do I change the size or color of my order?",
+          "answer": "If your order hasn’t been shipped, contact customer support to request size or color changes, subject to availability.",
+        "keywords": ["order", "change", "color"]
+    },
+    {
+        "question": "Is it possible to update the size or color of my order?",
+        "answer": "If your order hasn’t been shipped, contact customer support to request size or color changes, subject to availability.",
+        "keywords": ["order", "update", "size"]
+    },
+    {
+        "question": "Can I use a gift card for my purchase?",
+        "answer": "Yes, gift cards can be used at checkout. Enter the gift card code in the designated field to apply the balance.",
+        "keywords": ["purchase", "card", "checkout"]
+    },
+    {
+        "question": "Can I pay with a gift card?",
+        "answer": "Yes, gift cards can be used at checkout. Enter the gift card code in the designated field to apply the balance.",
+        "keywords": ["pay", "checkout", "card"]
+    },
+    {
+        "question": "Is it possible to use a gift card for my order?",
+        "answer": "Yes, gift cards can be used at checkout. Enter the gift card code in the designated field to apply the balance.",
+        "keywords": ["card", "order", "checkout"]
+    },
+    {
+        "question": "How can I use a gift card for my purchase?",
+        "answer": "Yes, gift cards can be used at checkout. Enter the gift card code in the designated field to apply the balance.",
+        "keywords": ["purchase", "card", "checkout"]
+    },
+    {
+        "question": "What should I do if my order is delayed?",
+        "answer": "If your order is delayed, check the tracking information in your account. Contact customer support for updates or assistance.",
+        "keywords": ["order", "assistance", "support"]
+    },
+    {
+        "question": "What do I do if my order is delayed?",
+        "answer": "If your order is delayed, check the tracking information in your account. Contact customer support for updates or assistance.",
+        "keywords": ["order", "assistance", "support"]
+    },
+    {
+        "question": "How can I handle a delayed order?",
+        "answer": "If your order is delayed, check the tracking information in your account. Contact customer support for updates or assistance.",
+        "keywords": ["delayed", "delay", "check"]
+    },
+    {
+        "question": "What steps should I take if my order is late?",
+        "answer": "If your order is delayed, check the tracking information in your account. Contact customer support for updates or assistance.",
+        "keywords": ["late", "order", "assistance"]
+    },
+    {
+        "question": "How do I care for my purchased product?",
+        "answer": "Care instructions are provided on the product page or packaging. Contact customer support for specific care guidelines.",
+        "keywords": ["product", "packaging", "care"]
+    },
+    {
+        "question": "How can I care for my product?",
+        "answer": "Care instructions are provided on the product page or packaging. Contact customer support for specific care guidelines.",
+        "keywords": ["product", "packaging", "care"]
+    },
+    {
+        "question": "What are the care instructions for my purchased product?",
+        "answer": "Care instructions are provided on the product page or packaging. Contact customer support for specific care guidelines.",
+        "keywords": ["product", "packaging", "specific"]
+    },
+    {
+        "question": "How do I maintain my purchased product?",
+        "answer": "Care instructions are provided on the product page or packaging. Contact customer support for specific care guidelines.",
+        "keywords": ["maintain", "product", "packaging"]
+    },
+    {
+        "question": "What if I have issues with payment security?",
+        "answer": "Our payment system uses industry-standard encryption. If you have concerns, contact customer support for assistance.",
+        "keywords": ["security", "encryption", "support"]
+    },
+    {
+        "question": "What should I do if I have payment security concerns?",
+        "answer": "Our payment system uses industry-standard encryption. If you have concerns, contact customer support for assistance.",
+        "keywords": ["encryption", "support", "assistance"]
+    },
+    {
+        "question": "How do I address payment security issues?",
+        "answer": "Our payment system uses industry-standard encryption. If you have concerns, contact customer support for assistance.",
+        "keywords": ["encryption", "support", "address"]
+    },
+    {
+        "question": "What are my options if I’m worried about payment security?",
+        "answer": "Our payment system uses industry-standard encryption. If you have concerns, contact customer support for assistance.",
+        "keywords": ["encryption", "security", "worried"]
+    },
+    {
+        "question": "Can I pre-order products?",
+        "answer": "Yes, pre-orders are available for select products. Check the product page for pre-order options and estimated delivery dates.",
+        "keywords": ["product", "select", "available"]
+    },
+    {
+        "question": "Can I place a pre-order for products?",
+        "answer": "Yes, pre-orders are available for select products. Check the product page for pre-order options and estimated delivery dates.",
+        "keywords": ["product", "select", "available"]
+    },
+    {
+        "question": "Is it possible to pre-order items?",
+        "answer": "Yes, pre-orders are available for select products. Check the product page for pre-order options and estimated delivery dates.",
+        "keywords": ["possible", "select", "available"]
+    },
+    {
+        "question": "How can I pre-order a product?",
+        "answer": "Yes, pre-orders are available for select products. Check the product page for pre-order options and estimated delivery dates.",
+        "keywords": ["select", "product", "available"]
+    },
+    {
+        "question": "Can I customize a product before ordering?",
+        "answer": "Customization is available for select products. Check the product page for customization options or contact customer support.",
+        "keywords": ["customize", "customization", "product"]
+    },
+    {
+        "question": "Can I personalize a product before ordering?",
+        "answer": "Customization is available for select products. Check the product page for customization options or contact customer support.",
+        "keywords": ["personalize", "customization", "product"]
+    },
+    {
+        "question": "Is it possible to customize a product before purchase?",
+        "answer": "Customization is available for select products. Check the product page for customization options or contact customer support.",
+        "keywords": ["customize", "purchase", "possible"]
+    },
+    {
+        "question": "How can I customize a product before ordering?",
+        "answer": "Customization is available for select products. Check the product page for customization options or contact customer support.",
+        "keywords": ["customize", "customization", "product"]
+    },
+    {
+        "question": "How long does it take to process a refund?",
+        "answer": "Refunds are typically processed within 5-7 business days after receiving the returned item. Contact customer support for updates.",
+        "keywords": ["refund", "return", "item"]
+    },
+    {
+        "question": "How long will it take to process my refund?",
+        "answer": "Refunds are typically processed within 5-7 business days after receiving the returned item. Contact customer support for updates.",
+        "keywords": ["refund", "return", "support"]
+    },
+    {
+        "question": "What is the timeframe for processing a refund?",
+        "answer": "Refunds are typically processed within 5-7 business days after receiving the returned item. Contact customer support for updates.",
+        "keywords": ["refund", "return", "timeframe"]
+    },
+    {
+        "question": "How soon can I expect my refund to be processed?",
+        "answer": "Refunds are typically processed within 5-7 business days after receiving the returned item. Contact customer support for updates.",
+        "keywords": ["refund", "return", "support"]
+    },
+    {
+        "question": "Are there additional taxes for international orders?",
+        "answer": "International orders may incur customs duties or taxes, which are the buyer’s responsibility. Check with your local customs office for details.",
+        "keywords": ["international", "additional", "buyer"]
+    },
+    {
+        "question": "Are there extra taxes for international orders?",
+        "answer": "International orders may incur customs duties or taxes, which are the buyer’s responsibility. Check with your local customs office for details.",
+        "keywords": ["international", "extra", "buyer"]
+    },
+    {
+        "question": "Do international orders have additional taxes?",
+        "answer": "International orders may incur customs duties or taxes, which are the buyer’s responsibility. Check with your local customs office for details.",
+        "keywords": ["international", "additional", "buyer"]
+    },
+    {
+        "question": "Will I be charged extra taxes for an international purchase?",
+        "answer": "International orders may incur customs duties or taxes, which are the buyer’s responsibility. Check with your local customs office for details.",
+        "keywords": ["international", "purchase", "extra"]
+    }
+]

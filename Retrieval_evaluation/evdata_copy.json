@@ -1,0 +1,390 @@
+[
+  {
+    "query": "How to make an account?",
+    "expected": "How do I create an account?"
+  },
+  {
+    "query": "Account creation steps",
+    "expected": "How do I create an account?"
+  },
+  {
+    "query": "Payment options available?",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Do you take credit cards?",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Where's my package?",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "Order tracking process",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "Returning items policy",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "Refund guidelines",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "How to stop my order?",
+    "expected": "Can I cancel my order?"
+  },
+  {
+    "query": "Order cancellation process",
+    "expected": "Can I cancel my order?"
+  },
+  {
+    "query": "Delivery timeframe",
+    "expected": "How long does shipping take?"
+  },
+  {
+    "query": "Shipping duration",
+    "expected": "How long does shipping take?"
+  },
+  {
+    "query": "Ship to other countries?",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "Global shipping options",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "Package arrived damaged",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "Missing parcel solution",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "Update delivery address",
+    "expected": "Can I change my shipping address after placing an order?"
+  },
+  {
+    "query": "Modify order address",
+    "expected": "Can I change my shipping address after placing an order?"
+  },
+  {
+    "query": "Reach customer service",
+    "expected": "How can I contact customer support?"
+  },
+  {
+    "query": "Support contact options",
+    "expected": "How can I contact customer support?"
+  },
+  {
+    "query": "Present wrapping service",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "Gift packaging options",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "Competitor price matching",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "Price guarantee details",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "Phone ordering possible?",
+    "expected": "Can I order by phone?"
+  },
+  {
+    "query": "Telephone purchase options",
+    "expected": "Can I order by phone?"
+  },
+  {
+    "query": "Data security measures",
+    "expected": "Are my personal and payment details secure?"
+  },
+  {
+    "query": "Payment safety assurance",
+    "expected": "Are my personal and payment details secure?"
+  },
+  {
+    "query": "Sale price adjustment",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "Post-purchase price match",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "VIP membership signup",
+    "expected": "Do you have a loyalty program?"
+  },
+  {
+    "query": "Apple Pay acceptance",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Overnight delivery availability",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "Gift wrap pricing",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "Size exchange procedure",
+    "expected": "Can I change or cancel an item in my order?"
+  },
+  {
+    "query": "Refund processing time",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "Military discount eligibility",
+    "expected": "Do you have a loyalty program?"
+  },
+  {
+    "query": "Product assembly service",
+    "expected": "Do you offer installation services for your products?"
+  },
+  {
+    "query": "Color customization options",
+    "expected": "Can I customize the color of my product?"
+  },
+  {
+    "query": "Corporate gifting program",
+    "expected": "Do you offer bulk or wholesale discounts?"
+  },
+  {
+    "query": "Holiday return deadline",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "Clearance warranty coverage",
+    "expected": "Do clearance items come with a warranty?"
+  },
+  {
+    "query": "Backorder status inquiry",
+    "expected": "How can I check the status of a backordered item?"
+  },
+  {
+    "query": "Price match guarantee",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "Curbside pickup details",
+    "expected": "How does your curbside pickup service work?"
+  },
+  {
+    "query": "International customs fees",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "Bundle discount options",
+    "expected": "Do you offer bulk or wholesale discounts?"
+  },
+  {
+    "query": "Product demo scheduling",
+    "expected": "Can I request a product demonstration before making a purchase?"
+  },
+  {
+    "query": "Reward points redemption",
+    "expected": "How do I redeem my loyalty program points?"
+  },
+  {
+    "query": "VIP benefits overview",
+    "expected": "What are the benefits of the Premium membership program?"
+  },
+  {
+    "query": "Digital wallet payments",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Express shipping costs",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "Gift wrap options",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "Item swap process",
+    "expected": "Can I change or cancel an item in my order?"
+  },
+  {
+    "query": "Refund timeline estimate",
+    "expected": "How long does it take to process a refund?"
+  },
+  {
+    "query": "Veteran discount program",
+    "expected": "Do you offer discounts for military personnel?"
+  },
+  {
+    "query": "Setup service availability",
+    "expected": "Do you offer installation services for your products?"
+  },
+  {
+    "query": "Personalization options",
+    "expected": "Can I customize the color of my product?"
+  },
+  {
+    "query": "Next-day shipping for urgent orders?",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "Fix damaged packaging on delivery",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "Return electronics without receipt",
+    "expected": "Can I return a product without a receipt?"
+  },
+  {
+    "query": "International shipping costs and times",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "Use multiple coupons at checkout",
+    "expected": "Can I use multiple promo codes on a single order?"
+  },
+  {
+    "query": "Order tracking not updating",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "Gift message character limit",
+    "expected": "Can I add a gift message to my order?"
+  },
+  {
+    "query": "Price adjustment after sale ends",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "Create account without email",
+    "expected": "How do I create an account?"
+  },
+  {
+    "query": "Pay with cryptocurrency options",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Track international shipment status",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "Return opened electronics item",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "Cancel order after payment",
+    "expected": "Can I cancel my order?"
+  },
+  {
+    "query": "Rush shipping for birthday gift",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "Ship to PO box internationally",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "Replace damaged product part",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "Change address for pending order",
+    "expected": "Can I change my shipping address after placing an order?"
+  },
+  {
+    "query": "24/7 customer support availability",
+    "expected": "How can I contact customer support?"
+  },
+  {
+    "query": "Premium gift wrapping cost",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "Price match Amazon listing",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "Phone order exception process",
+    "expected": "Can I order by phone?"
+  },
+  {
+    "query": "Payment security certification",
+    "expected": "Are my personal and payment details secure?"
+  },
+  {
+    "query": "Adjust price for recent purchase",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "Loyalty points expiration policy",
+    "expected": "Do you have a loyalty program?"
+  },
+  {
+    "query": "Guest checkout limitations",
+    "expected": "Can I order without creating an account?"
+  },
+  {
+    "query": "Large quantity discount inquiry",
+    "expected": "Do you offer bulk or wholesale discounts?"
+  },
+  {
+    "query": "Modify order item quantity",
+    "expected": "Can I change or cancel an item in my order?"
+  },
+  {
+    "query": "Submit product review anonymously",
+    "expected": "How can I leave a product review?"
+  },
+  {
+    "query": "Combine promo code with sale",
+    "expected": "Can I use multiple promo codes on a single order?"
+  },
+  {
+    "query": "Exchange wrong size item",
+    "expected": "What should I do if I receive the wrong item?"
+  },
+  {
+    "query": "Priority shipping options",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "Backorder notification setup",
+    "expected": "Can I order a product that is out of stock?"
+  },
+  {
+    "query": "Newsletter unsubscribe process",
+    "expected": "What is your email newsletter about?"
+  },
+  {
+    "query": "Return gift without receipt",
+    "expected": "Can I return a product if it was purchased as a gift?"
+  },
+  {
+    "query": "Live chat support hours",
+    "expected": "Do you offer live chat support?"
+  },
+  {
+    "query": "Gift shipment direct to recipient",
+    "expected": "Can I order a product as a gift?"
+  },
+  {
+    "query": "Expired promo code exception",
+    "expected": "What should I do if my discount code is not working?"
+  },
+  {
+    "query": "Final sale return exception",
+    "expected": "Can I return a product if it was a final sale item?"
+  },
+  {
+    "query": "Product installation",
+    "expected": "Do you offer installation services for your products?"
+  }
+]

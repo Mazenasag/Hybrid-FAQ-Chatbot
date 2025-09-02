@@ -1,0 +1,350 @@
+[
+  {
+    "original_question": "How can I create an account?",
+    "static_answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process.",
+    "conversational_answer": "Hey there! To get started with us, just click on the 'Sign Up' button you'll find in the top right corner of our website. It'll guide you through the simple steps to create your very own account. Enjoy the ride!",
+    "processing_time": 1.93
+  },
+  {
+    "original_question": "What payment methods do you accept?",
+    "static_answer": "We accept major credit cards, debit cards, and PayPal as payment methods for online orders.",
+    "conversational_answer": "Hey there! I'm happy to help with that. When it comes to making an online purchase with us, you've got a few options. We accept all major credit cards, debit cards, and PayPal. So, whether you prefer swiping, dipping, or using your PayPal account, we've got you covered!",
+    "processing_time": 1.05
+  },
+  {
+    "original_question": "How can I track my order?",
+    "static_answer": "You can track your order by logging into your account and navigating to the 'Order History' section. There, you will find the tracking information for your shipment.",
+    "conversational_answer": "Hey there! No worries, you can easily keep tabs on your order. Just log into your account and head over to the 'Order History' section. That's where you'll find all the details about your shipment, including the tracking info. Enjoy following your package's journey!",
+    "processing_time": 1.27
+  },
+  {
+    "original_question": "What is your return policy?",
+    "static_answer": "Our return policy allows you to return products within 30 days of purchase for a full refund, provided they are in their original condition and packaging. Please refer to our Returns page for detailed instructions.",
+    "conversational_answer": "Hey there! If you're not completely satisfied with your purchase within 30 days from the date it was delivered, no worries! You can return it to us for a full refund. Just make sure the item is in its original condition and packaging. For more details on how to go about it, head over to our Returns page. We're here to make sure you're happy with your purchase!",
+    "processing_time": 1.08
+  },
+  {
+    "original_question": "Can I cancel my order?",
+    "static_answer": "You can cancel your order if it has not been shipped yet. Please contact our customer support team with your order details, and we will assist you with the cancellation process.",
+    "conversational_answer": "Hey there! I'm happy to help with that. If your order hasn't left our warehouse yet, you're good to go! Just shoot us a message with your order details, and we'll get the cancellation process rolling for you. Let's make sure everything's just right before it heads your way. \ud83d\ude0a",
+    "processing_time": 2.95
+  },
+  {
+    "original_question": "How long does shipping take?",
+    "static_answer": "Shipping times vary depending on the destination and the shipping method chosen. Standard shipping usually takes 3-5 business days, while express shipping can take 1-2 business days.",
+    "conversational_answer": "Hey there! I'd be happy to help you with that. The shipping time depends on where you're located and the shipping method you pick. If you go for standard shipping, it typically takes 3-5 business days. But if you need it faster, express shipping can get it to you in just 1-2 business days. Hope that helps!",
+    "processing_time": 6.98
+  },
+  {
+    "original_question": "Do you offer international shipping?",
+    "static_answer": "Yes, we offer international shipping to select countries. The availability and shipping costs will be calculated during the checkout process based on your location.",
+    "conversational_answer": "Absolutely! We do ship our products internationally, but only to certain countries. Don't worry, we'll let you know during the checkout process if your location is eligible. Plus, we'll also calculate the shipping costs for you based on your location. So, go ahead and add your favorite items to your cart!",
+    "processing_time": 1.19
+  },
+  {
+    "original_question": "What should I do if my package is lost or damaged?",
+    "static_answer": "If your package is lost or damaged during transit, please contact our customer support team immediately. We will initiate an investigation and take the necessary steps to resolve the issue.",
+    "conversational_answer": "Hey there! If your package seems to have disappeared or got a bit banged up during delivery, don't worry! Just give our friendly customer support team a shout as soon as possible. We'll jump right in to investigate the situation and do everything we can to sort it out for you.",
+    "processing_time": 1.89
+  },
+  {
+    "original_question": "Can I change my shipping address after placing an order?",
+    "static_answer": "If you need to change your shipping address, please contact our customer support team as soon as possible. We will do our best to update the address if the order has not been shipped yet.",
+    "conversational_answer": "Hey there! If you've realized you need to change your shipping address after placing an order, no worries! Just give our friendly customer support team a shout. The sooner you reach out, the better, as we can only update the address if the order hasn't been shipped yet. We'll do our best to help you out!",
+    "processing_time": 5.64
+  },
+  {
+    "original_question": "How can I contact customer support?",
+    "static_answer": "You can contact our customer support team by phone at [phone number] or by email at [email address]. Our team is available [working hours] to assist you with any inquiries or issues you may have.",
+    "conversational_answer": "Hey there! If you've got a question or need help with something, don't worry - our friendly customer support team is here for you! You can reach us by giving us a call at [phone number] or sending an email to [email address]. We're available [working hours] to lend a helping hand, so don't hesitate to get in touch!",
+    "processing_time": 4.58
+  },
+  {
+    "original_question": "Do you offer gift wrapping services?",
+    "static_answer": "Yes, we offer gift wrapping services for an additional fee. During the checkout process, you can select the option to add gift wrapping to your order.",
+    "conversational_answer": "Absolutely! We'd be more than happy to help you wrap your gift. There's a small fee for this service, but don't worry, you can easily add it during the checkout process. Just make sure to select the gift wrapping option when you're placing your order, and we'll take care of the rest!",
+    "processing_time": 2.79
+  },
+  {
+    "original_question": "What is your price matching policy?",
+    "static_answer": "We have a price matching policy where we will match the price of an identical product found on a competitor's website. Please contact our customer support team with the details of the product and the competitor's offer.",
+    "conversational_answer": "Hey there! If you find the exact same product at a lower price on another website, no worries! We've got your back. Just shoot us a message with the product details and the competitor's offer, and we'll do our best to match the price for you. Happy shopping!",
+    "processing_time": 0.99
+  },
+  {
+    "original_question": "Can I order by phone?",
+    "static_answer": "Unfortunately, we do not accept orders over the phone. Please place your order through our website for a smooth and secure transaction.",
+    "conversational_answer": "Hey there! I'm sorry to disappoint, but we don't take orders over the phone just yet. Don't worry though, our website is super easy to use and ensures a smooth and secure shopping experience. So, go ahead and place your order there! Let me know if you need any help finding what you're looking for. \ud83d\ude0a",
+    "processing_time": 1.15
+  },
+  {
+    "original_question": "Are my personal and payment details secure?",
+    "static_answer": "Yes, we take the security of your personal and payment details seriously. We use industry-standard encryption and follow strict security protocols to ensure your information is protected.",
+    "conversational_answer": "Absolutely! You can rest easy knowing that your personal and payment details are in good hands. We prioritize your security and employ top-notch encryption methods, as well as adhering to stringent security protocols, to keep your information safe and secure.",
+    "processing_time": 0.88
+  },
+  {
+    "original_question": "What is your price adjustment policy?",
+    "static_answer": "If a product you purchased goes on sale within 7 days of your purchase, we offer a one-time price adjustment. Please contact our customer support team with your order details to request the adjustment.",
+    "conversational_answer": "Hey there! If you've recently bought something from us and spot it on sale within a week, don't worry! We've got your back. Just give our customer support team a shout, share your order details, and we'll happily adjust the price for you \u2013 once time only, though. Enjoy your shopping experience with us!",
+    "processing_time": 1.07
+  },
+  {
+    "original_question": "Do you have a loyalty program?",
+    "static_answer": "Yes, we have a loyalty program where you can earn points for every purchase. These points can be redeemed for discounts on future orders. Please visit our website to learn more and join the program.",
+    "conversational_answer": "Absolutely! We've got a fantastic loyalty program just for you. Every time you make a purchase, you'll earn points. These points can be used to get discounts on your next orders. To learn more about it and sign up, head over to our website! It's a great way to save while shopping with us. \ud83d\ude0a",
+    "processing_time": 1.18
+  },
+  {
+    "original_question": "Can I order without creating an account?",
+    "static_answer": "Yes, you can place an order as a guest without creating an account. However, creating an account offers benefits such as order tracking and easier future purchases.",
+    "conversational_answer": "Absolutely! You don't have to create an account to place an order. But, if you do decide to create one, you'll enjoy perks like tracking your orders and making future purchases a breeze. So, the choice is yours!",
+    "processing_time": 2.74
+  },
+  {
+    "original_question": "Do you offer bulk or wholesale discounts?",
+    "static_answer": "Yes, we offer bulk or wholesale discounts for certain products. Please contact our customer support team or visit our Wholesale page for more information and to discuss your specific requirements.",
+    "conversational_answer": "Absolutely! If you're planning to stock up on some of our products, you're in luck! We've got some fantastic bulk or wholesale discounts available. Just give our friendly customer support team a shout or head over to our Wholesale page for all the deets and to chat about your unique needs. We can't wait to help you save!",
+    "processing_time": 1.05
+  },
+  {
+    "original_question": "Can I change or cancel an item in my order?",
+    "static_answer": "If you need to change or cancel an item in your order, please contact our customer support team as soon as possible. We will assist you with the necessary steps.",
+    "conversational_answer": "Hey there! If you've realized you need to make a change or even cancel an item in your order, no worries! Just reach out to our friendly customer support team. We're here to help you out and guide you through the process.",
+    "processing_time": 0.9
+  },
+  {
+    "original_question": "How can I leave a product review?",
+    "static_answer": "To leave a product review, navigate to the product page on our website and click on the 'Write a Review' button. You can share your feedback and rating based on your experience with the product.",
+    "conversational_answer": "Hey there! Want to share your thoughts about a product you've bought from us? Here's a simple way to do it:\n\n1. Head over to the product page on our website.\n2. Look for the 'Write a Review' button.\n3. Click on it and you'll be all set to share your feedback and rate the product based on your experience.\n\nHope this helps! Let us know if you have any other questions. \ud83d\ude0a",
+    "processing_time": 1.82
+  },
+  {
+    "original_question": "Can I use multiple promo codes on a single order?",
+    "static_answer": "Usually, only one promo code can be applied per order. During the checkout process, enter the promo code in the designated field to apply the discount to your order.",
+    "conversational_answer": "Hey there! I'd be happy to help with that. So, here's the deal - usually, we can only use one promo code per order. But don't worry, just enter the code you've got in the spot provided during checkout, and it'll be applied to your order. Easy peasy! If you have any other questions, feel free to ask. \ud83d\ude0a",
+    "processing_time": 0.83
+  },
+  {
+    "original_question": "What should I do if I receive the wrong item?",
+    "static_answer": "If you receive the wrong item in your order, please contact our customer support team immediately. We will arrange for the correct item to be shipped to you and assist with returning the wrong item.",
+    "conversational_answer": "Hey there! If you've received the wrong item in your order, don't worry! Just reach out to our friendly customer support team right away. We'll make sure to get the correct item sent over to you and help you return the mistake. Let's get this sorted out together!",
+    "processing_time": 0.78
+  },
+  {
+    "original_question": "Do you offer expedited shipping?",
+    "static_answer": "Yes, we offer expedited shipping options for faster delivery. During the checkout process, you can select the desired expedited shipping method.",
+    "conversational_answer": "Absolutely! If you're in a hurry, we've got you covered. We offer some super-fast shipping options that'll get your order to you in no time. Just make sure to choose your preferred speedy shipping method during checkout, and you'll be good to go!",
+    "processing_time": 1.02
+  },
+  {
+    "original_question": "Can I order a product that is out of stock?",
+    "static_answer": "If a product is currently out of stock, you will usually see an option to sign up for product notifications. This way, you will be alerted when the product becomes available again.",
+    "conversational_answer": "Hey there! I'm sorry to say that the item you're interested in seems to be temporarily out of stock. But don't worry, we've got you covered! You can sign up for notifications so we can let you know as soon as it's back in stock. That way, you'll be the first to know and can grab it before it sells out again!",
+    "processing_time": 1.23
+  },
+  {
+    "original_question": "What is your email newsletter about?",
+    "static_answer": "Our email newsletter provides updates on new product releases, exclusive offers, and helpful tips related to our products. You can subscribe to our newsletter on our website.",
+    "conversational_answer": "Hey there! I'm glad you asked about our newsletter! It's a fun way to stay in the loop about all the exciting things happening here. We'll keep you posted on our latest product launches, share some amazing deals that are only available to our subscribers, and sprinkle in some useful tips to help you get the most out of our products.\n\nYou can sign up for our newsletter right on our website. So, what are you waiting for? Let's keep this party going! \ud83c\udf89",
+    "processing_time": 0.95
+  },
+  {
+    "original_question": "Can I return a product if I changed my mind?",
+    "static_answer": "Yes, you can return a product if you changed your mind. Please ensure the product is in its original condition and packaging, and refer to our return policy for instructions.",
+    "conversational_answer": "Absolutely! If you've had a change of heart about a product, no worries at all. Just make sure it's still in its original condition and packaging, and follow our return policy for the steps. We've got you covered!",
+    "processing_time": 0.62
+  },
+  {
+    "original_question": "Do you offer live chat support?",
+    "static_answer": "Yes, we offer live chat support on our website during our business hours. Look for the chat icon in the bottom right corner to initiate a chat with our customer support team.",
+    "conversational_answer": "Absolutely! We've got you covered with our live chat support. You can find it right at the bottom right corner of our website. It's available during our business hours, so feel free to reach out to our friendly customer support team whenever you need help!",
+    "processing_time": 4.86
+  },
+  {
+    "original_question": "Can I order a product as a gift?",
+    "static_answer": "Yes, you can order a product as a gift and have it shipped directly to the recipient. During the checkout process, you can enter the recipient's shipping address.",
+    "conversational_answer": "Absolutely! If you'd like to surprise someone with one of our products, you can definitely do that. Just make sure to enter the recipient's address during the checkout process, and we'll take care of the rest. Happy gifting!",
+    "processing_time": 0.66
+  },
+  {
+    "original_question": "What should I do if my discount code is not working?",
+    "static_answer": "If your discount code is not working, please double-check the terms and conditions associated with the code. If the issue persists, contact our customer support team for assistance.",
+    "conversational_answer": "Hey there! If your discount code isn't working as expected, don't worry! First, let's make sure you're not missing any fine print. Take a quick peek at the terms and conditions related to your code. If you're still having trouble, no problem! Our friendly customer support team is here to help. Just give us a shout, and we'll get things sorted out for you. \ud83d\ude0a",
+    "processing_time": 0.83
+  },
+  {
+    "original_question": "Can I return a product if it was a final sale item?",
+    "static_answer": "Final sale items are usually non-returnable and non-refundable. Please review the product description or contact our customer support team to confirm the return eligibility for specific items.",
+    "conversational_answer": "Hey there! I hope you're doing well. I understand you're wondering if you can return a final sale item. Typically, final sale items can't be returned or refunded. To make sure, I'd recommend taking a quick look at the product description. If you're still unsure, don't hesitate to reach out to our customer support team. They'd be more than happy to help clarify the return eligibility for your specific item! \ud83d\ude0a",
+    "processing_time": 1.26
+  },
+  {
+    "original_question": "Do you offer installation services for your products?",
+    "static_answer": "Installation services are available for select products. Please check the product description or contact our customer support team for more information and to request installation services.",
+    "conversational_answer": "Hey there! I'm happy to help you out. We do offer installation services for some of our products, but it depends on the item you're interested in. To find out if your product qualifies, you can take a peek at the product description or reach out to our friendly customer support team. They'd be more than happy to provide you with the details and help you arrange the installation if needed!",
+    "processing_time": 1.4
+  },
+  {
+    "original_question": "Can I order a product that is discontinued?",
+    "static_answer": "Discontinued products are no longer available for purchase. We recommend exploring alternative products on our website.",
+    "conversational_answer": "Hey there! I'm sorry to say that the product you're interested in has been discontinued. That means we can't sell it anymore. But don't worry, we have plenty of other great options on our website! Let's see if we can find something that catches your eye.",
+    "processing_time": 0.77
+  },
+  {
+    "original_question": "Can I return a product without a receipt?",
+    "static_answer": "A receipt or proof of purchase is usually required for returns. Please refer to our return policy or contact our customer support team for assistance.",
+    "conversational_answer": "Hey there! I hope you're doing well. I understand you're looking to return a product, but you don't have the receipt. No worries, we've got you covered! Our return policy typically asks for a receipt or proof of purchase. If you could take a look at our policy or give our customer support team a call, they'd be more than happy to help you out and guide you through the process.",
+    "processing_time": 2.11
+  },
+  {
+    "original_question": "Can I order a product for delivery to a different country?",
+    "static_answer": "Yes, we offer international shipping to select countries. Please review the available shipping destinations during checkout or contact our customer support for assistance.",
+    "conversational_answer": "Absolutely! We'd be more than happy to help you ship your product overseas. We offer delivery to a variety of countries, but to make sure your chosen destination is on the list, you can check during the checkout process or feel free to reach out to our customer support team for a quick confirmation.",
+    "processing_time": 0.88
+  },
+  {
+    "original_question": "Can I add a gift message to my order?",
+    "static_answer": "Yes, you can add a gift message during the checkout process. There is usually a section where you can enter your personalized message.",
+    "conversational_answer": "Absolutely! When you're ready to check out, don't forget to add a special gift message. You'll find a spot to type your personalized note, so you can make their day even more special!",
+    "processing_time": 1.36
+  },
+  {
+    "original_question": "Can I request a product demonstration before making a purchase?",
+    "static_answer": "We do not currently offer product demonstrations before purchase. However, you can find detailed product descriptions, specifications, and customer reviews on our website.",
+    "conversational_answer": "Hey there! I'm glad you're considering our product. While we don't have product demonstrations available before purchase, I've got some good news for you! You can find all the details you need on our website, including comprehensive product descriptions, technical specifications, and even customer reviews. So, you can make an informed decision before you buy. Hope that helps!",
+    "processing_time": 2.04
+  },
+  {
+    "original_question": "Can I order a product that is listed as 'coming soon'?",
+    "static_answer": "Products listed as 'coming soon' are not available for immediate purchase. Please sign up for notifications to be informed when the product becomes available.",
+    "conversational_answer": "Hey there! I see you're interested in a product that's labeled as 'coming soon'. That means it's not ready for purchase just yet, but don't worry! You can still keep an eye out for it. Just sign up for notifications, and we'll let you know as soon as it's available for you to grab. Happy shopping!",
+    "processing_time": 1.4
+  },
+  {
+    "original_question": "Can I request an invoice for my order?",
+    "static_answer": "Yes, an invoice is usually included with your order. If you require a separate invoice, please contact our customer support team with your order details.",
+    "conversational_answer": "Absolutely! Most of the time, an invoice comes with your order. But if you need a separate one, no worries! Just shoot us an email at our customer support with your order details, and we'll get that sorted out for you in a jiffy. \ud83d\ude0a",
+    "processing_time": 1.6
+  },
+  {
+    "original_question": "Can I order a product that is labeled as 'limited edition'?",
+    "static_answer": "'Limited edition' products may have restricted availability. We recommend placing an order as soon as possible to secure your item.",
+    "conversational_answer": "Hey there! I'm happy to help with your question. So, about that 'limited edition' product you're eyeing - it's a bit special because it might not be around forever. To make sure you get your hands on it, I'd suggest going ahead and placing your order right away! Enjoy your shopping!",
+    "processing_time": 1.29
+  },
+  {
+    "original_question": "Can I return a product if I no longer have the original packaging?",
+    "static_answer": "While returning a product in its original packaging is preferred, you can still initiate a return without it. Contact our customer support team for guidance in such cases.",
+    "conversational_answer": "Hey there! No worries if you've misplaced the original packaging for your product. We'd still be happy to help you with a return. Just give our customer support team a shout, and they'll guide you through the process. Keep in mind that having the original packaging is preferred, but we understand things happen!",
+    "processing_time": 2.06
+  },
+  {
+    "original_question": "Can I request a product that is currently out of stock to be reserved for me?",
+    "static_answer": "We do not offer reservations for out-of-stock products. However, you can sign up for product notifications to be alerted when it becomes available again.",
+    "conversational_answer": "Hey there! I know you're really interested in a product that's temporarily out of stock. Unfortunately, we don't have a reservation system for those items just yet. But don't worry, we've got you covered! You can sign up for notifications so we can let you know as soon as it's back in stock. That way, you'll be the first to know and can grab it before it flies off the shelves! \ud83d\ude0a",
+    "processing_time": 1.12
+  },
+  {
+    "original_question": "Can I order a product that is listed as 'pre-order' with other in-stock items?",
+    "static_answer": "Yes, you can place an order with a mix of pre-order and in-stock items. However, please note that the entire order will be shipped once all items are available.",
+    "conversational_answer": "Absolutely! You can go ahead and order a pre-order item along with items that are currently in stock. Just remember, your entire order will only be shipped once everything is available. So, you might receive your items in one go, but don't worry, they'll all be here soon!",
+    "processing_time": 1.73
+  },
+  {
+    "original_question": "Can I return a product if it was damaged during shipping?",
+    "static_answer": "If your product was damaged during shipping, please contact our customer support team immediately. We will guide you through the return and replacement process.",
+    "conversational_answer": "Hey there! I'm really sorry to hear that your product arrived damaged. Don't worry, we've got your back! Just give our customer support team a shout, and they'll walk you through the easy return and replacement process. We'll make things right for you as soon as possible.",
+    "processing_time": 2.43
+  },
+  {
+    "original_question": "Can I request a product that is out of stock to be restocked?",
+    "static_answer": "We strive to restock popular products whenever possible. Please sign up for product notifications to be informed when the item becomes available again.",
+    "conversational_answer": "Hey there! I'm glad you asked about our out-of-stock item. We really want to make sure we have all our popular products in stock, so we'll do our best to restock it when we can. If you'd like to be notified as soon as it's back, just sign up for product notifications and we'll keep you in the loop!",
+    "processing_time": 1.48
+  },
+  {
+    "original_question": "Can I order a product if it is listed as 'backordered'?",
+    "static_answer": "Products listed as 'backordered' are temporarily out of stock but can still be ordered. Your order will be fulfilled once the product is restocked.",
+    "conversational_answer": "Hey there! I see you're interested in a product that's currently 'backordered'. That just means it's temporarily out of stock, but don't worry, you can still place your order! We'll make sure to send it over as soon as it's back in stock. Enjoy shopping!",
+    "processing_time": 0.71
+  },
+  {
+    "original_question": "Can I return a product if it was purchased during a sale or with a discount?",
+    "static_answer": "Yes, you can return a product purchased during a sale or with a discount. The refund will be processed based on the amount paid after the discount.",
+    "conversational_answer": "Absolutely! If you've picked up a product during one of our sales or with a discount, no worries at all. We'll be more than happy to help you with a return. Just remember, the refund will be calculated based on the final price after the discount has been applied. So, you'll get back the same amount you would have paid without the discount. Easy peasy!",
+    "processing_time": 1.15
+  },
+  {
+    "original_question": "Can I request a product repair or replacement if it is damaged?",
+    "static_answer": "If you receive a damaged product, please contact our customer support team immediately. We will assist you with the necessary steps for repair or replacement.",
+    "conversational_answer": "Hey there! If you've received a damaged product, don't worry! Just reach out to our friendly customer support team right away. We'll be more than happy to guide you through the process of getting your product fixed or replaced.",
+    "processing_time": 3.56
+  },
+  {
+    "original_question": "Can I order a product if it is listed as 'out of stock' but available for pre-order?",
+    "static_answer": "If a product is available for pre-order, you can place an order to secure your item. The product will be shipped once it becomes available.",
+    "conversational_answer": "Hey there! I've got some great news for you! Even if a product shows as 'out of stock', you can still get it if it's available for pre-order. That means you can go ahead and place an order to reserve your item. The best part? We'll ship it to you as soon as it's back in stock! Enjoy your shopping! \ud83d\ude0a",
+    "processing_time": 0.82
+  },
+  {
+    "original_question": "Can I return a product if it was purchased as a gift?",
+    "static_answer": "Yes, you can return a product purchased as a gift. However, refunds will typically be issued to the original payment method used for the purchase.",
+    "conversational_answer": "Absolutely! If you've received a gift that doesn't quite fit the bill, no worries! You can return it. Just keep in mind that refunds will usually go back to the original payment method. So, if your friend or family member used their credit card, that's where the refund will head. But don't let that stop you from exchanging it for something you'll love!",
+    "processing_time": 0.91
+  },
+  {
+    "original_question": "Can I request a product if it is listed as 'discontinued'?",
+    "static_answer": "Unfortunately, if a product is listed as 'discontinued,' it is no longer available for purchase. We recommend exploring alternative products on our website.",
+    "conversational_answer": "Hey there! I'm sorry to hear you're interested in a product that's been marked as 'discontinued'. That means it's no longer available for purchase. But don't worry, we've got plenty of other awesome products on our website that might just catch your eye! Let's take a look together, shall we?",
+    "processing_time": 0.8
+  },
+  {
+    "original_question": "Can I order a product if it is listed as 'sold out'?",
+    "static_answer": "If a product is listed as 'sold out,' it is currently unavailable for purchase. Please check back later or sign up for notifications when it becomes available again.",
+    "conversational_answer": "Hey there! I see you're eyeing a product that's currently marked as 'sold out'. That means it's temporarily out of stock. Don't worry, though! You can either hang in there and check back later, or you can sign up for notifications so you'll know as soon as it's back in stock. Hope that helps!",
+    "processing_time": 1.51
+  },
+  {
+    "original_question": "Can I return a product if it was purchased with a gift card?",
+    "static_answer": "Yes, you can return a product purchased with a gift card. The refund will be issued in the form of store credit or a new gift card.",
+    "conversational_answer": "Absolutely! If you've bought something using a gift card, don't worry, you can still return it. We'll process the refund as store credit or a fresh gift card for you. Easy peasy!",
+    "processing_time": 3.86
+  },
+  {
+    "original_question": "Can I request a product if it is not currently available in my size?",
+    "static_answer": "If a product is not available in your size, it may be temporarily out of stock. Please check back later or sign up for size notifications.",
+    "conversational_answer": "Hey there! If the product you're eyeing isn't available in your size, don't worry! It might just be temporarily out of stock. Why not give it another look later on? Or, even better, sign up for size notifications so you'll be the first to know when it's back in your size. Happy shopping!",
+    "processing_time": 0.88
+  },
+  {
+    "original_question": "Can I order a product if it is listed as 'coming soon' but available for pre-order?",
+    "static_answer": "If a product is listed as 'coming soon' and available for pre-order, you can place an order to secure your item before it becomes available.",
+    "conversational_answer": "Hey there! If you see a product marked as 'coming soon' but with the option to pre-order, that means you can reserve it before it officially hits the shelves! Just go ahead and place your order, and you'll be all set when the product arrives. Enjoy the perks of being an early bird!",
+    "processing_time": 0.74
+  },
+  {
+    "original_question": "Can I return a product if it was purchased with a discount code?",
+    "static_answer": "Yes, you can return a product purchased with a discount code. The refund will be processed based on the amount paid after the discount.",
+    "conversational_answer": "Absolutely! If you've used a discount code to make a purchase and now you've changed your mind, don't worry. You can return the product. When we process the refund, we'll take into account the discount, so the amount you'll receive back will be based on the final, discounted price. Easy peasy!",
+    "processing_time": 0.99
+  },
+  {
+    "original_question": "Can I request a custom order or personalized product?",
+    "static_answer": "We do not currently offer custom orders or personalized products. Please explore the available products on our website.",
+    "conversational_answer": "Hey there! I'd be more than happy to help with that. Unfortunately, at the moment, we don't offer the option to create custom orders or personalized products. But don't worry, we've got a fantastic range of products available on our website for you to check out instead! Let me know if you need any assistance finding something that catches your eye. \ud83d\ude0a",
+    "processing_time": 0.85
+  },
+  {
+    "original_question": "Can I order a product if it is listed as 'temporarily unavailable'?",
+    "static_answer": "If a product is listed as 'temporarily unavailable,' it is out of stock but may be restocked in the future. Please check back later or sign up for notifications.",
+    "conversational_answer": "Hey there! I see you're interested in a product that's currently marked as 'temporarily unavailable'. That just means it's out of stock for now, but don't worry, it might be back soon! You can either check back later or sign up for notifications so you'll know as soon as it's back in stock. Hope that helps!",
+    "processing_time": 1.43
+  },
+  {
+    "original_question": "Can I return a product if it was damaged due to improper use?",
+    "static_answer": "Our return policy generally covers products that are defective or damaged upon arrival. Damage due to improper use may not be eligible for a return. Please contact our customer support team for assistance.",
+    "conversational_answer": "Hey there! I hope you're doing well. I've got some info about returns that might be helpful for you. Typically, we accept returns for products that are defective or damaged when they arrive. However, if a product gets damaged due to improper use, it might not be eligible for a return. If you're in a situation like this, don't worry! Just reach out to our customer support team, and we'll do our best to help you out. Take care!",
+    "processing_time": 1.0
+  }
+]

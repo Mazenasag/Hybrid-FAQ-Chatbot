@@ -1,0 +1,162 @@
+[
+  {
+    "query": "I want to start shopping here",
+    "expected": "How can I create an account?"
+  },
+  {
+    "query": "What ways can I pay?",
+    "expected": "What payment methods do you accept?"
+  },
+  {
+    "query": "Where's my stuff?",
+    "expected": "How can I track my order?"
+  },
+  {
+    "query": "Can I send something back if I don't like it?",
+    "expected": "What is your return policy?"
+  },
+  {
+    "query": "I changed my mind about my purchase",
+    "expected": "Can I cancel my order?"
+  },
+  {
+    "query": "How soon will this arrive?",
+    "expected": "How long does shipping take?"
+  },
+  {
+    "query": "Do you ship overseas?",
+    "expected": "Do you offer international shipping?"
+  },
+  {
+    "query": "My package never showed up",
+    "expected": "What should I do if my package is lost or damaged?"
+  },
+  {
+    "query": "I moved after ordering",
+    "expected": "Can I change my shipping address after placing an order?"
+  },
+  {
+    "query": "I need help with something",
+    "expected": "How can I contact customer support?"
+  },
+  {
+    "query": "Can you make it look like a present?",
+    "expected": "Do you offer gift wrapping services?"
+  },
+  {
+    "query": "I found this cheaper somewhere else",
+    "expected": "What is your price matching policy?"
+  },
+  {
+    "query": "Can I order over the phone?",
+    "expected": "Can I order by phone?"
+  },
+  {
+    "query": "Is it safe to buy from you?",
+    "expected": "Are my personal and payment details secure?"
+  },
+  {
+    "query": "This went on sale right after I bought it",
+    "expected": "What is your price adjustment policy?"
+  },
+  {
+    "query": "Do you have a rewards system?",
+    "expected": "Do you have a loyalty program?"
+  },
+  {
+    "query": "I don't want to make an account",
+    "expected": "Can I order without creating an account?"
+  },
+  {
+    "query": "I'm buying a lot of these",
+    "expected": "Do you offer bulk or wholesale discounts?"
+  },
+  {
+    "query": "I want to remove something from my order",
+    "expected": "Can I change or cancel an item in my order?"
+  },
+  {
+    "query": "I want to share my thoughts on a product",
+    "expected": "How can I leave a product review?"
+  },
+  {
+    "query": "I have several discount codes",
+    "expected": "Can I use multiple promo codes on a single order?"
+  },
+  {
+    "query": "This isn't what I ordered",
+    "expected": "What should I do if I receive the wrong item?"
+  },
+  {
+    "query": "I need this quickly",
+    "expected": "Do you offer expedited shipping?"
+  },
+  {
+    "query": "It says you're out of this",
+    "expected": "Can I order a product that is out of stock?"
+  },
+  {
+    "query": "What's in your emails?",
+    "expected": "What is your email newsletter about?"
+  },
+  {
+    "query": "I don't want this anymore",
+    "expected": "Can I return a product if I changed my mind?"
+  },
+  {
+    "query": "Can I chat with someone?",
+    "expected": "Do you offer live chat support?"
+  },
+  {
+    "query": "This is for someone else",
+    "expected": "Can I order a product as a gift?"
+  },
+  {
+    "query": "My code isn't working",
+    "expected": "What should I do if my discount code is not working?"
+  },
+  {
+    "query": "It was on final sale but I need to return it",
+    "expected": "Can I return a product if it was a final sale item?"
+  },
+  {
+    "query": "Will you set this up for me?",
+    "expected": "Do you offer installation services for your products?"
+  },
+  {
+    "query": "This isn't available anymore",
+    "expected": "Can I order a product that is discontinued?"
+  },
+  {
+    "query": "I lost my receipt",
+    "expected": "Can I return a product without a receipt?"
+  },
+  {
+    "query": "I want this sent to another country",
+    "expected": "Can I order a product for delivery to a different country?"
+  },
+  {
+    "query": "Can you include a note?",
+    "expected": "Can I add a gift message to my order?"
+  },
+  {
+    "query": "Can I try this before buying?",
+    "expected": "Can I request a product demonstration before making a purchase?"
+  },
+  {
+    "query": "It says coming soon - can I get it?",
+    "expected": "Can I order a product that is listed as 'coming soon'?"
+  },
+  {
+    "query": "I need a receipt for this",
+    "expected": "Can I request an invoice for my order?"
+  },
+  {
+    "query": "This is a special edition item",
+    "expected": "Can I order a product that is labeled as 'limited edition'?"
+  },
+  {
+    "query": "I threw away the box",
+    "expected": "Can I return a product if I no longer have the original packaging?"
+  }
+]
