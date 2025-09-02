@@ -39,6 +39,8 @@ flowchart TD
     D --> E
     E --> F["LLM Refinement (Together API)"]
     F --> G[Final Response]
+```
+
 
 
 📂 Project Structure
