@@ -37,7 +37,7 @@ flowchart TD
     B -->|Lexical| D[BM25]
     C --> E[Candidate Answers]
     D --> E
-    E --> F[LLM Refinement (Together API)]
+    E --> F["LLM Refinement (Together API)"]
     F --> G[Final Response]
 
 
